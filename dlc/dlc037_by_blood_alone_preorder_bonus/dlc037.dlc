@@ -1,0 +1,9 @@
+name = "By Blood Alone Preorder Bonus"
+path = dlc/dlc037_by_blood_alone_preorder_bonus/
+steam_id = "1880660"
+pops_id = "hoi4_dlc037_by_blood_alone_preorder_bonus"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category = "music"
+checksum = "9d25f08876c80bc9b7cd1bee1142bc6f"
