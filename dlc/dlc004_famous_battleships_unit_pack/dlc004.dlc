@@ -1,0 +1,8 @@
+name = "Famous Battleships Unit Pack"
+archive = "dlc/dlc004_famous_battleships_unit_pack/dlc004.zip"
+pdx_id = "hoi4_0001"
+affects_checksum = no
+affects_compatability = no
+checksum = "931886c48680b6a9bea1925fd323cfab"
+third_party_content = no
+category="unit_pack"
