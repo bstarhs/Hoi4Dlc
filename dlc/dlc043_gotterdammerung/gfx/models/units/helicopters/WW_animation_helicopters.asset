@@ -1,0 +1,242 @@
+##########################
+# Austria #
+##########################
+
+#Doblhoff WNF 342
+animation = {
+	name = "AUS_helicopter_0_idle_animation"
+	file = "AUS_helicopter_0_idle.anim"
+}
+
+animation = {
+	name = "AUS_helicopter_0_moving_animation"
+	file = "AUS_helicopter_0_moving.anim"
+}
+
+animation = {
+	name = "AUS_helicopter_0_training_animation"
+	file = "AUS_helicopter_0_training.anim"
+}
+
+##########################
+# Belgium #
+##########################
+
+#Florine Type II 
+animation = {
+	name = "BEL_helicopter_0_idle_animation"
+	file = "BEL_helicopter_0_idle.anim"
+}
+
+animation = {
+	name = "BEL_helicopter_0_moving_animation"
+	file = "BEL_helicopter_0_moving.anim"
+}
+
+animation = {
+	name = "BEL_helicopter_0_training_animation"
+	file = "BEL_helicopter_0_training.anim"
+}
+
+
+##########################
+# England #
+##########################
+
+#Cierva W.9
+animation = {
+	name = "ENG_helicopter_0_idle_animation"
+	file = "ENG_helicopter_0_idle.anim"
+}
+
+animation = {
+	name = "ENG_helicopter_0_moving_animation"
+	file = "ENG_helicopter_0_moving.anim"
+}
+
+animation = {
+	name = "ENG_helicopter_0_training_animation"
+	file = "ENG_helicopter_0_training.anim"
+}
+
+##########################
+# France #
+##########################
+
+#Dorand Gyroplane G.20 G.II
+animation = {
+	name = "FRA_helicopter_0_idle_animation"
+	file = "FRA_helicopter_0_idle.anim"
+}
+
+animation = {
+	name = "FRA_helicopter_0_moving_animation"
+	file = "FRA_helicopter_0_moving.anim"
+}
+
+animation = {
+	name = "FRA_helicopter_0_attack_animation"
+	file = "FRA_helicopter_0_attack.anim"
+}
+
+animation = {
+	name = "FRA_helicopter_0_training_animation"
+	file = "FRA_helicopter_0_training.anim"
+}
+
+
+##########################
+# Germany #
+##########################
+
+#Focke-Wulf Fw 61
+animation = {
+	name = "GER_helicopter_0_idle_animation"
+	file = "GER_helicopter_0_idle.anim"
+}
+
+animation = {
+	name = "GER_helicopter_0_moving_animation"
+	file = "GER_helicopter_0_moving.anim"
+}
+
+animation = {
+	name = "GER_helicopter_0_training_animation"
+	file = "GER_helicopter_0_training.anim"
+}
+
+#Flettner Fl 282 Kolibri
+animation = {
+	name = "GER_helicopter_1_idle_animation"
+	file = "GER_helicopter_1_idle.anim"
+}
+
+animation = {
+	name = "GER_helicopter_1_moving_animation"
+	file = "GER_helicopter_1_moving.anim"
+}
+
+animation = {
+	name = "GER_helicopter_1_training_animation"
+	file = "GER_helicopter_1_training.anim"
+}
+
+##########################
+# Hungary #
+##########################
+
+#AH-4
+animation = {
+	name = "HUN_helicopter_0_idle_animation"
+	file = "HUN_helicopter_0_idle.anim"
+}
+
+animation = {
+	name = "HUN_helicopter_0_moving_animation"
+	file = "HUN_helicopter_0_moving.anim"
+}
+
+animation = {
+	name = "HUN_helicopter_0_training_animation"
+	file = "HUN_helicopter_0_training.anim"
+}
+
+##########################
+# Japan #
+##########################
+
+#Kayaba Ka-1
+animation = {
+	name = "JAP_helicopter_0_idle_animation"
+	file = "JAP_helicopter_0_idle.anim"
+}
+
+animation = {
+	name = "JAP_helicopter_0_moving_animation"
+	file = "JAP_helicopter_0_moving.anim"
+}
+
+animation = {
+	name = "JAP_helicopter_0_training_animation"
+	file = "JAP_helicopter_0_training.anim"
+}
+
+##########################
+# USA #
+##########################
+
+#Vought-Sikorsky VS-300
+animation = {
+	name = "USA_helicopter_0_idle_animation"
+	file = "USA_helicopter_0_idle.anim"
+}
+
+animation = {
+	name = "USA_helicopter_0_moving_animation"
+	file = "USA_helicopter_0_moving.anim"
+}
+
+animation = {
+	name = "USA_helicopter_0_training_animation"
+	file = "USA_helicopter_0_training.anim"
+}
+
+
+#Sikorsky R-4
+animation = {
+	name = "USA_helicopter_1_idle_animation"
+	file = "USA_helicopter_1_idle.anim"
+}
+
+animation = {
+	name = "USA_helicopter_1_moving_animation"
+	file = "USA_helicopter_1_moving.anim"
+}
+
+animation = {
+	name = "USA_helicopter_1_training_animation"
+	file = "USA_helicopter_1_training.anim"
+}
+
+##########################
+# Soviet #
+##########################
+
+#Kamov A-7
+animation = {
+	name = "SOV_helicopter_0_idle_animation"
+	file = "SOV_helicopter_0_idle.anim"
+}
+
+animation = {
+	name = "SOV_helicopter_0_moving_animation"
+	file = "SOV_helicopter_0_moving.anim"
+}
+
+animation = {
+	name = "SOV_helicopter_0_training_animation"
+	file = "SOV_helicopter_0_training.anim"
+}
+
+##########################
+# Spain #
+##########################
+
+
+#Cierva C.30 (Spain)
+animation = {
+	name = "SPR_helicopter_0_idle_animation"
+	file = "SPR_helicopter_0_idle.anim"
+}
+
+animation = {
+	name = "SPR_helicopter_0_moving_animation"
+	file = "SPR_helicopter_0_moving.anim"
+}
+
+animation = {
+	name = "SPR_helicopter_0_training_animation"
+	file = "SPR_helicopter_0_training.anim"
+}
+
+

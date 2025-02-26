@@ -1,0 +1,224 @@
+##########################
+# England #
+##########################
+
+#BL howitzer
+animation = {
+	name = "ENG_super_heavy_artillery_attack_animation"
+	file = "ENG_super_heavy_artillery_attack.anim"
+}
+
+animation = {
+	name = "ENG_super_heavy_artillery_idle_animation"
+	file = "ENG_super_heavy_artillery_idle.anim"
+}
+
+animation = {
+	name = "ENG_super_heavy_artillery_moving_animation"
+	file = "ENG_super_heavy_artillery_moving.anim"
+}
+
+### SP Howitzers -----------------------------------------------------------------------------------------------------------
+
+##########################
+# France #
+##########################
+
+#Canon de 220 L mle 1917
+animation = {
+	name = "FRA_super_heavy_artillery_attack_animation"
+	file = "FRA_super_heavy_artillery_attack.anim"
+}
+
+animation = {
+	name = "FRA_super_heavy_artillery_idle_animation"
+	file = "FRA_super_heavy_artillery_idle.anim"
+}
+
+animation = {
+	name = "FRA_super_heavy_artillery_moving_animation"
+	file = "FRA_super_heavy_artillery_moving.anim"
+}
+
+animation = {
+	name = "FRA_super_heavy_artillery_training_animation"
+	file = "FRA_super_heavy_artillery_training.anim"
+}
+
+### SP Howitzers -----------------------------------------------------------------------------------------------------------
+
+animation = {
+	name = "FRA_self_propelled_super_heavy_artillery_attack_animation"
+	file = "FRA_self_propelled_super_heavy_artillery_attack.anim"
+}
+
+animation = {
+	name = "FRA_self_propelled_super_heavy_artillery_idle_animation"
+	file = "FRA_self_propelled_super_heavy_artillery_idle.anim"
+}
+
+animation = {
+	name = "FRA_self_propelled_super_heavy_artillery_moving_animation"
+	file = "FRA_self_propelled_super_heavy_artillery_moving.anim"
+}
+
+animation = {
+	name = "FRA_self_propelled_super_heavy_artillery_training_animation"
+	file = "FRA_self_propelled_super_heavy_artillery_training.anim"
+}
+
+##########################
+# Germany #
+##########################
+
+#Haubitze M1
+animation = {
+	name = "GER_super_heavy_howitzer_attack_animation"
+	file = "GER_super_heavy_howitzer_attack.anim"
+}
+
+animation = {
+	name = "GER_super_heavy_howitzer_idle_animation"
+	file = "GER_super_heavy_howitzer_idle.anim"
+}
+
+animation = {
+	name = "GER_super_heavy_howitzer_moving_animation"
+	file = "GER_super_heavy_howitzer_moving.anim"
+}
+
+### SP Howitzers -----------------------------------------------------------------------------------------------------------
+
+animation = {
+	name = "GER_self_propelled_super_heavy_artillery_attack_animation"
+	file = "GER_self_propelled_super_heavy_artillery_attack.anim"
+}
+
+animation = {
+	name = "GER_self_propelled_super_heavy_artillery_idle_animation"
+	file = "GER_self_propelled_super_heavy_artillery_idle.anim"
+}
+
+animation = {
+	name = "GER_self_propelled_super_heavy_artillery_moving_animation"
+	file = "GER_self_propelled_super_heavy_artillery_moving.anim"
+}
+
+animation = {
+	name = "GER_self_propelled_super_heavy_artillery_training_animation"
+	file = "GER_self_propelled_super_heavy_artillery_training.anim"
+}
+
+##########################
+# Japan #
+##########################
+
+#Kunana Shiki
+animation = {
+	name = "JAP_super_heavy_artillery_attack_animation"
+	file = "JAP_super_heavy_artillery_attack.anim"
+}
+
+animation = {
+	name = "JAP_super_heavy_artillery_idle_animation"
+	file = "JAP_super_heavy_artillery_idle.anim"
+}
+
+animation = {
+	name = "JAP_super_heavy_artillery_moving_animation"
+	file = "JAP_super_heavy_artillery_moving.anim"
+}
+
+animation = {
+	name = "JAP_super_heavy_artillery_training_animation"
+	file = "JAP_super_heavy_artillery_training.anim"
+}
+
+### SP Howitzers -----------------------------------------------------------------------------------------------------------
+
+##########################
+# Italy #
+##########################
+
+#Kunana Shiki
+animation = {
+	name = "ITA_super_heavy_artillery_attack_animation"
+	file = "ITA_super_heavy_artillery_attack.anim"
+}
+
+animation = {
+	name = "ITA_super_heavy_artillery_idle_animation"
+	file = "ITA_super_heavy_artillery_idle.anim"
+}
+
+animation = {
+	name = "ITA_super_heavy_artillery_moving_animation"
+	file = "ITA_super_heavy_artillery_moving.anim"
+}
+
+### SP Howitzers -----------------------------------------------------------------------------------------------------------
+
+##########################
+# UNITED STATES #
+##########################
+
+#Haubitze M1
+animation = {
+	name = "USA_super_heavy_artillery_attack_animation"
+	file = "USA_super_heavy_artillery_attack.anim"
+}
+
+animation = {
+	name = "USA_super_heavy_artillery_idle_animation"
+	file = "USA_super_heavy_artillery_idle.anim"
+}
+
+animation = {
+	name = "USA_super_heavy_artillery_moving_animation"
+	file = "USA_super_heavy_artillery_moving.anim"
+}
+
+### SP Howitzers -----------------------------------------------------------------------------------------------------------
+
+##########################
+# Soviet #
+##########################
+
+#Haubitze M1
+animation = {
+	name = "SOV_super_heavy_artillery_attack_animation"
+	file = "SOV_super_heavy_artillery_attack.anim"
+}
+
+animation = {
+	name = "SOV_super_heavy_artillery_idle_animation"
+	file = "SOV_super_heavy_artillery_idle.anim"
+}
+
+animation = {
+	name = "SOV_super_heavy_artillery_moving_animation"
+	file = "SOV_super_heavy_artillery_moving.anim"
+}
+
+### SP Howitzers -----------------------------------------------------------------------------------------------------------
+
+#S-51
+animation = {
+	name = "SOV_self_propelled_super_heavy_artillery_attack_animation"
+	file = "SOV_self_propelled_super_heavy_artillery_attack.anim"
+}
+
+animation = {
+	name = "SOV_self_propelled_super_heavy_artillery_idle_animation"
+	file = "SOV_self_propelled_super_heavy_artillery_idle.anim"
+}
+
+animation = {
+	name = "SOV_self_propelled_super_heavy_artillery_moving_animation"
+	file = "SOV_self_propelled_super_heavy_artillery_moving.anim"
+}
+
+animation = {
+	name = "SOV_self_propelled_super_heavy_artillery_training_animation"
+	file = "SOV_self_propelled_super_heavy_artillery_training.anim"
+}

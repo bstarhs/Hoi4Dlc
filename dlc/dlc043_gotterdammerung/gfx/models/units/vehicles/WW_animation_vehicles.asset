@@ -1,0 +1,108 @@
+##########################
+# Austria #
+##########################
+
+#ADGZ (Austrian)
+animation = {
+	name = "AUS_armored_car_0_idle_animation"
+	file = "AUS_armored_car_0_idle.anim"
+}
+
+animation = {
+	name = "AUS_armored_car_0_moving_animation"
+	file = "AUS_armored_car_0_moving.anim"
+}
+
+animation = {
+	name = "AUS_armored_car_0_attack_animation"
+	file = "AUS_armored_car_0_attack.anim"
+}
+
+#AUS ADG / ADGR
+animation = {
+	name = "AUS_motorized_vehicle_idle_animation"
+	file = "AUS_motorized_vehicle_idle.anim"
+}
+
+animation = {
+	name = "AUS_motorized_vehicle_moving_animation"
+	file = "AUS_motorized_vehicle_moving.anim"
+}
+
+animation = {
+	name = "AUS_motorized_vehicle_attack_animation"
+	file = "AUS_motorized_vehicle_attack.anim"
+}
+
+##########################
+# Belgium #
+##########################
+
+#Minerva Armored Ca
+animation = {
+	name = "BEL_armored_car_0_idle_animation"
+	file = "BEL_armored_car_0_idle.anim"
+}
+
+animation = {
+	name = "BEL_armored_car_0_moving_animation"
+	file = "BEL_armored_car_0_moving.anim"
+}
+
+animation = {
+	name = "BEL_armored_car_0_attack_animation"
+	file = "BEL_armored_car_0_attack.anim"
+}
+
+animation = {
+	name = "BEL_armored_car_0_training_animation"
+	file = "BEL_armored_car_0_training.anim"
+}
+
+
+#Brossel TAL
+animation = {
+	name = "BEL_motorized_vehicle_idle_animation"
+	file = "BEL_motorized_vehicle_idle.anim"
+}
+
+animation = {
+	name = "BEL_motorized_vehicle_move_animation"
+	file = "BEL_motorized_vehicle_moving.anim"
+}
+
+##########################
+# Hungary #
+##########################
+
+#Vickers Crossley
+animation = {
+	name = "HUN_armored_car_0_idle_animation"
+	file = "HUN_armored_car_0_idle.anim"
+}
+
+animation = {
+	name = "HUN_armored_car_0_moving_animation"
+	file = "HUN_armored_car_0_moving.anim"
+}
+
+animation = {
+	name = "HUN_armored_car_0_attack_animation"
+	file = "HUN_armored_car_0_attack.anim"
+}
+
+#39M Csaba
+animation = {
+	name = "HUN_armored_car_1_idle_animation"
+	file = "HUN_armored_car_1_idle.anim"
+}
+
+animation = {
+	name = "HUN_armored_car_1_moving_animation"
+	file = "HUN_armored_car_1_moving.anim"
+}
+
+animation = {
+	name = "HUN_armored_car_1_attack_animation"
+	file = "HUN_armored_car_1_attack.anim"
+}

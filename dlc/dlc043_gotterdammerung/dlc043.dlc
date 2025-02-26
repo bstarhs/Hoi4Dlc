@@ -1,0 +1,9 @@
+name = "Gotterdammerung"
+path = dlc/dlc043_gotterdammerung/
+steam_id = "3152780"
+pops_id = "hoi4_dlc043_gotterdammerung"
+affects_checksum = yes
+affects_compatability = yes
+third_party_content = no
+category = "expansion"
+checksum = "ccd267a0d3f8cb22be0c4495f0b1af3d"

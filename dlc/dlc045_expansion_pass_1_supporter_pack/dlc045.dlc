@@ -1,0 +1,9 @@
+name = "Expansion Pass 1: Supporter Pack"
+path = dlc/dlc045_expansion_pass_1_supporter_pack/
+steam_id = "3152820"
+pops_id = "hoi4_dlc045_expansion_pass_1_supporter_pack"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category = "unit_pack"
+checksum = "334386927214b4945c3e0c41f6843c38"

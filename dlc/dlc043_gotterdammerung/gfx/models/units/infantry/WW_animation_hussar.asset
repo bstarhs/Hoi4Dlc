@@ -1,0 +1,25 @@
+##########################
+# Austria #
+##########################
+
+#Hussar
+
+animation = {
+	name = "AUS_hussar_cavalry_rider_hussar_idle_animation"
+	file = "AUS_hussar_cavalry_rider_hussar_idle.anim"
+}
+
+animation = {
+	name = "AUS_hussar_cavalry_rider_hussar_moving_animation"
+	file = "AUS_hussar_cavalry_rider_hussar_moving.anim"
+}
+
+animation = {
+	name = "AUS_hussar_cavalry_rider_hussar_charge_animation"
+	file = "AUS_hussar_cavalry_rider_hussar_charge.anim"
+}
+
+animation = {
+	name = "AUS_hussar_cavalry_rider_hussar_attack_animation"
+	file = "AUS_hussar_cavalry_rider_hussar_attack.anim"
+}

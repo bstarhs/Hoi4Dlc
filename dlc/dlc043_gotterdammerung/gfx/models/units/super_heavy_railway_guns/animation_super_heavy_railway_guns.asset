@@ -1,0 +1,62 @@
+##########################
+# France #
+##########################
+
+# Obusier de 520 modèle 1916
+
+	animation = {
+	name = "FRA_super_heavy_railway_gun_attack_animation"
+	file = "FRA_super_heavy_railway_gun_attack.anim"
+	}
+	
+	animation = {
+	name = "FRA_super_heavy_railway_gun_moving_animation"
+	file = "FRA_super_heavy_railway_gun_moving.anim"
+	}
+	
+	animation = {
+	name = "FRA_super_heavy_railway_gun_idle_animation"
+	file = "FRA_super_heavy_railway_gun_idle.anim"
+	}
+	
+##########################
+# Italy #
+##########################
+
+# Cannone da 381/40 AVS
+
+	animation = {
+	name = "ITA_super_heavy_railway_gun_attack_animation"
+	file = "ITA_super_heavy_railway_gun_attack.anim"
+	}
+	
+	animation = {
+	name = "ITA_super_heavy_railway_gun_moving_animation"
+	file = "ITA_super_heavy_railway_gun_moving.anim"
+	}
+	
+	animation = {
+	name = "ITA_super_heavy_railway_gun_idle_animation"
+	file = "ITA_super_heavy_railway_gun_idle.anim"
+	}
+
+##########################
+# USA #
+##########################
+
+#14-inch M1920 railway gun
+
+	animation = {
+	name = "USA_super_heavy_railway_gun_attack_animation"
+	file = "USA_super_heavy_railway_gun_attack.anim"
+	}
+	
+	animation = {
+	name = "USA_super_heavy_railway_gun_moving_animation"
+	file = "USA_super_heavy_railway_gun_moving.anim"
+	}
+	
+	animation = {
+	name = "USA_super_heavy_railway_gun_idle_animation"
+	file = "USA_super_heavy_railway_gun_idle.anim"
+	}

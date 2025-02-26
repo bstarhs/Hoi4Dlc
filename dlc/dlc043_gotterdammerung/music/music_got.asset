@@ -1,0 +1,65 @@
+music = {
+	name = "apocalyptic_weapons"
+	file = "apocalyptic_weapons.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "austria_peace"
+	file = "austria_peace.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "austria_war"
+	file = "austria_war.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "belgium_peace"
+	file = "belgium_peace.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "belgium_war"
+	file = "belgium_war.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "commando_raid"
+	file = "commando_raid.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "germany_freedom"
+	file = "germany_freedom.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "germany_war"
+	file = "germany_war.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "great_empire_rises_again"
+	file = "great_empire_rises_again.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "hungary_peace"
+	file = "hungary_peace.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "hungary_war"
+	file = "hungary_war.ogg"
+	volume = 0.8
+}

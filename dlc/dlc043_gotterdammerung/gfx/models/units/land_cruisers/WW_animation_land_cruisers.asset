@@ -1,0 +1,158 @@
+####################################################### ENGLAND ############################################################
+
+#ENG land cruiser
+animation = {
+	name = "ENG_land_cruiser_armor_attack_animation"
+	file = "ENG_land_cruiser_armor_attack.anim"
+}
+
+animation = {
+	name = "ENG_land_cruiser_armor_idle_animation"
+	file = "ENG_land_cruiser_armor_idle.anim"
+}
+
+animation = {
+	name = "ENG_land_cruiser_armor_moving_animation"
+	file = "ENG_land_cruiser_armor_moving.anim"
+}
+
+animation = {
+	name = "ENG_land_cruiser_armor_defend_animation"
+	file = "ENG_land_cruiser_armor_defend.anim"
+}
+
+####################################################### FRANCE ############################################################
+
+#FRA land cruiser
+animation = {
+	name = "FRA_land_cruiser_armor_attack_animation"
+	file = "FRA_land_cruiser_armor_attack.anim"
+}
+
+animation = {
+	name = "FRA_land_cruiser_armor_idle_animation"
+	file = "FRA_land_cruiser_armor_idle.anim"
+}
+
+animation = {
+	name = "FRA_land_cruiser_armor_moving_animation"
+	file = "FRA_land_cruiser_armor_moving.anim"
+}
+
+animation = {
+	name = "FRA_land_cruiser_armor_defend_animation"
+	file = "FRA_land_cruiser_armor_defend.anim"
+}
+
+####################################################### GERMANY ###########################################################
+
+#GER land cruiser
+animation = {
+	name = "GER_land_cruiser_armor_attack_animation"
+	file = "GER_land_cruiser_armor_attack.anim"
+}
+
+animation = {
+	name = "GER_land_cruiser_armor_idle_animation"
+	file = "GER_land_cruiser_armor_idle.anim"
+}
+
+animation = {
+	name = "GER_land_cruiser_armor_moving_animation"
+	file = "GER_land_cruiser_armor_moving.anim"
+}
+
+animation = {
+	name = "GER_land_cruiser_armor_defend_animation"
+	file = "GER_land_cruiser_armor_defend.anim"
+}
+
+#GER land cruiser 2
+animation = {
+	name = "GER_land_cruiser_armor_2_attack_animation"
+	file = "GER_land_cruiser_armor_2_attack.anim"
+}
+
+animation = {
+	name = "GER_land_cruiser_armor_2_idle_animation"
+	file = "GER_land_cruiser_armor_2_idle.anim"
+}
+
+animation = {
+	name = "GER_land_cruiser_armor_2_moving_animation"
+	file = "GER_land_cruiser_armor_2_moving.anim"
+}
+
+animation = {
+	name = "GER_land_cruiser_armor_2_defend_animation"
+	file = "GER_land_cruiser_armor_2_defend.anim"
+}
+
+######################################################### ITALY #############################################################
+
+#ITA land cruiser
+animation = {
+	name = "ITA_land_cruiser_armor_attack_animation"
+	file = "ITA_land_cruiser_armor_attack.anim"
+}
+
+animation = {
+	name = "ITA_land_cruiser_armor_idle_animation"
+	file = "ITA_land_cruiser_armor_idle.anim"
+}
+
+animation = {
+	name = "ITA_land_cruiser_armor_moving_animation"
+	file = "ITA_land_cruiser_armor_moving.anim"
+}
+
+animation = {
+	name = "ITA_land_cruiser_armor_defend_animation"
+	file = "ITA_land_cruiser_armor_defend.anim"
+}
+
+######################################################## SOVIET ############################################################
+
+#SOV land cruiser
+animation = {
+	name = "SOV_land_cruiser_armor_attack_animation"
+	file = "SOV_land_cruiser_armor_attack.anim"
+}
+
+animation = {
+	name = "SOV_land_cruiser_armor_idle_animation"
+	file = "SOV_land_cruiser_armor_idle.anim"
+}
+
+animation = {
+	name = "SOV_land_cruiser_armor_moving_animation"
+	file = "SOV_land_cruiser_armor_moving.anim"
+}
+
+animation = {
+	name = "SOV_land_cruiser_armor_defend_animation"
+	file = "SOV_land_cruiser_armor_defend.anim"
+}
+
+######################################################### USA ##############################################################
+
+#USA land cruiser
+animation = {
+	name = "USA_land_cruiser_armor_attack_animation"
+	file = "USA_land_cruiser_armor_attack.anim"
+}
+
+animation = {
+	name = "USA_land_cruiser_armor_idle_animation"
+	file = "USA_land_cruiser_armor_idle.anim"
+}
+
+animation = {
+	name = "USA_land_cruiser_armor_moving_animation"
+	file = "USA_land_cruiser_armor_moving.anim"
+}
+
+animation = {
+	name = "USA_land_cruiser_armor_defend_animation"
+	file = "USA_land_cruiser_armor_defend.anim"
+}

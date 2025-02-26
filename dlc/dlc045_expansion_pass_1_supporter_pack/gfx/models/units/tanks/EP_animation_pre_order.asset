@@ -1,0 +1,64 @@
+##########################
+# Germany #
+##########################
+
+### Light ------------------------------------------------------------------------------------------------------------------
+
+#Pz.Sfl. II
+animation = {
+	name = "GER_light_tank_destroyer_brigade_2_attack_animation"
+	file = "GER_light_tank_destroyer_brigade_2_attack.anim"
+}
+
+animation = {
+	name = "GER_light_tank_destroyer_brigade_2_idle_animation"
+	file = "GER_light_tank_destroyer_brigade_2_idle.anim"
+}
+
+animation = {
+	name = "GER_light_tank_destroyer_brigade_2_moving_animation"
+	file = "GER_light_tank_destroyer_brigade_2_moving.anim"
+}
+
+
+### Medium -----------------------------------------------------------------------------------------------------------------
+
+#VK 30.02 D
+animation = {
+	name = "GER_medium_armor_2_var_1_attack_animation"
+	file = "GER_medium_armor_2_var_1_attack.anim"
+}
+
+animation = {
+	name = "GER_medium_armor_2_var_1_idle_animation"
+	file = "GER_medium_armor_2_var_1_idle.anim"
+}
+
+animation = {
+	name = "GER_medium_armor_2_var_1_moving_animation"
+	file = "GER_medium_armor_2_var_1_moving.anim"
+}
+
+### Heavy ------------------------------------------------------------------------------------------------------------------
+
+
+
+### Super Heavy -----------------------------------------------------------------------------------------------------------
+
+#Panzer VII Löwe
+animation = {
+	name = "GER_super_heavy_armor_var_1_attack_animation"
+	file = "GER_super_heavy_armor_var_1_attack.anim"
+}
+
+animation = {
+	name = "GER_super_heavy_armor_var_1_idle_animation"
+	file = "GER_super_heavy_armor_var_1_idle.anim"
+}
+
+animation = {
+	name = "GER_super_heavy_armor_var_1_moving_animation"
+	file = "GER_super_heavy_armor_var_1_moving.anim"
+}
+
+### Modern ---------------------------------------------------------------------------------------------------------------

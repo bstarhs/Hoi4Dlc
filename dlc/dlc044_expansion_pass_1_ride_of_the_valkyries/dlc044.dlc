@@ -1,0 +1,9 @@
+name = "Expansion Pass 1: Ride of the Valkyries"
+path = dlc/dlc044_expansion_pass_1_ride_of_the_valkyries/
+steam_id = "3152840"
+pops_id = "hoi4_dlc044_expansion_pass_1_ride_of_the_valkyries"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category = "music"
+checksum = "27b4c7b7072974961f27c9de8eba5d9b"
