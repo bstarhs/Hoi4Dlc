@@ -1,0 +1,75 @@
+##########################
+# SWEDEN #
+##########################
+#TLV141
+animation = {
+	name = "SWE_motorized_vehicle_idle_animation"
+	file = "SWE_motorized_vehicle_idle.anim"
+}
+
+animation = {
+	name = "SWE_motorized_vehicle_moving_animation"
+	file = "SWE_motorized_vehicle_moving.anim"
+}
+
+#-----------------------------------------------
+
+#Vkp m/42
+animation = {
+	name = "SWE_mechanized_vehicle_idle_animation"
+	file = "SWE_mechanized_vehicle_idle.anim"
+}
+
+animation = {
+	name = "SWE_mechanized_vehicle_moving_animation"
+	file = "SWE_mechanized_vehicle_moving.anim"
+}
+
+#-----------------------------------------------
+
+#Landsverk L185
+animation = {
+	name = "SWE_armored_car_0_attack_animation"
+	file = "SWE_armored_car_0_attack.anim"
+}
+
+animation = {
+	name = "SWE_armored_car_0_idle_animation"
+	file = "SWE_armored_car_0_idle.anim"
+}
+
+animation = {
+	name = "SWE_armored_car_0_moving_animation"
+	file = "SWE_armored_car_0_moving.anim"
+}
+
+#-----------------------------------------------
+
+#Lynx m39
+animation = {
+	name = "SWE_armored_car_1_attack_animation"
+	file = "SWE_armored_car_1_attack.anim"
+}
+
+animation = {
+	name = "SWE_armored_car_1_idle_animation"
+	file = "SWE_armored_car_1_idle.anim"
+}
+
+animation = {
+	name = "SWE_armored_car_1_moving_animation"
+	file = "SWE_armored_car_1_moving.anim"
+}
+
+#-----------------------------------------------
+
+#Per-Albin Bus
+animation = {
+	name = "SWE_bus_vehicle_idle_animation"
+	file = "SWE_bus_vehicle_idle.anim"
+}
+
+animation = {
+	name = "SWE_bus_vehicle_moving_animation"
+	file = "SWE_bus_vehicle_moving.anim"
+}

@@ -1,0 +1,9 @@
+name = "Arms Against Tyranny Preorder Bonus"
+path = dlc/dlc039_arms_against_tyranny_preorder_bonus/
+steam_id = "2280250"
+pops_id = "hoi4_dlc039_arms_against_tyranny_preorder_bonus"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category = "music"
+checksum = "ac93479fee25dc21186bb0a5fa69a1b2"

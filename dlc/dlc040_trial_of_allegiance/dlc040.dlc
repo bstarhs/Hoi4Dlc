@@ -1,0 +1,9 @@
+name = "Trial of Allegiance"
+path = dlc/dlc040_trial_of_allegiance/
+steam_id = "2695150"
+pops_id = "hoi4_dlc040_trial_of_allegiance"
+affects_checksum = yes
+affects_compatability = yes
+third_party_content = no
+category = "content"
+checksum = "654aab14de09972bc790414527214bb7"

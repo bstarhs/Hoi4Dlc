@@ -1,0 +1,9 @@
+name = "Arms Against Tyranny"
+path = dlc/dlc038_arms_against_tyranny/
+steam_id = "2183930"
+pops_id = "hoi4_dlc038_arms_against_tyranny"
+affects_checksum = yes
+affects_compatability = yes
+third_party_content = no
+category = "expansion"
+checksum = "980a5e335c1f4615d19d53293bc9d5dc"

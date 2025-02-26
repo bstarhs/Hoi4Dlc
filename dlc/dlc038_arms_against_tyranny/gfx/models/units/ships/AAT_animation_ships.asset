@@ -1,0 +1,71 @@
+##########################
+# NORWAY #
+##########################
+
+#NOR_battleship_0 (Eidsvold)
+
+animation = {
+	name = "NOR_battleship_0_idle_animation"
+	file = "NOR_battleship_0_idle.anim"
+}
+
+animation = {
+	name = "NOR_battleship_0_attack_animation"
+	file = "NOR_battleship_0_attack.anim"
+}
+
+animation = {
+	name = "NOR_battleship_0_defend_animation"
+	file = "NOR_battleship_0_defend.anim"
+}
+
+animation = {
+	name = "NOR_battleship_0_death_animation"
+	file = "NOR_battleship_0_death.anim"
+}
+
+#NOR_destroyer_0 (Sleipner)
+
+animation = {
+	name = "NOR_destroyer_0_idle_animation"
+	file = "NOR_destroyer_0_idle.anim"
+}
+
+animation = {
+	name = "NOR_destroyer_0_attack_animation"
+	file = "NOR_destroyer_0_attack.anim"
+}
+
+animation = {
+	name = "NOR_destroyer_0_defend_animation"
+	file = "NOR_destroyer_0_defend.anim"
+}
+
+animation = {
+	name = "NOR_destroyer_0_death_animation"
+	file = "NOR_destroyer_0_death.anim"
+}
+
+##########################
+# GERMANY #
+##########################
+
+animation = {
+	name = "GER_heavy_cruiser_2_idle_animation"
+	file = "GER_heavy_cruiser_2_idle.anim"
+}
+
+animation = {
+	name = "GER_heavy_cruiser_2_attack_animation"
+	file = "GER_heavy_cruiser_2_attack.anim"
+}
+
+animation = {
+	name = "GER_heavy_cruiser_2_defend_animation"
+	file = "GER_heavy_cruiser_2_defend.anim"
+}
+
+animation = {
+	name = "GER_heavy_cruiser_2_death_animation"
+	file = "GER_heavy_cruiser_2_death.anim"
+}

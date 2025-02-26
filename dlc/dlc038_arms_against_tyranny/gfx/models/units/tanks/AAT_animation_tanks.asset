@@ -1,0 +1,287 @@
+##########################
+# NORWAY #
+##########################
+
+#L-120 ##################################################################
+animation = {
+	name = "NOR_light_armor_1_attack_animation"
+	file = "NOR_light_armor_1_attack.anim"
+}
+
+animation = {
+	name = "NOR_light_armor_1_idle_animation"
+	file = "NOR_light_armor_1_idle.anim"
+}
+
+animation = {
+	name = "NOR_light_armor_1_moving_animation"
+	file = "NOR_light_armor_1_moving.anim"
+}
+
+##########################
+# SWEDEN #
+##########################
+
+### Light -----------------------------------------------------------------------------------------------------------------
+
+#Strv m21 ##################################################################
+animation = {
+	name = "SWE_iw_armor_attack_animation"
+	file = "SWE_iw_armor_attack.anim"
+}
+
+animation = {
+	name = "SWE_iw_armor_idle_animation"
+	file = "SWE_iw_armor_idle.anim"
+}
+
+animation = {
+	name = "SWE_iw_armor_moving_animation"
+	file = "SWE_iw_armor_moving.anim"
+}
+
+#Strv m38 (L-60S) ##########################################################
+animation = {
+	name = "SWE_light_armor_0_attack_animation"
+	file = "SWE_light_armor_0_attack.anim"
+}
+
+animation = {
+	name = "SWE_light_armor_0_idle_animation"
+	file = "SWE_light_armor_0_idle.anim"
+}
+
+animation = {
+	name = "SWE_light_armor_0_moving_animation"
+	file = "SWE_light_armor_0_moving.anim"
+}
+
+#Strv m40 (L-60 III) ##########################################################
+animation = {
+	name = "SWE_light_armor_2_attack_animation"
+	file = "SWE_light_armor_2_attack.anim"
+}
+
+animation = {
+	name = "SWE_light_armor_2_idle_animation"
+	file = "SWE_light_armor_2_idle.anim"
+}
+
+animation = {
+	name = "SWE_light_armor_2_moving_animation"
+	file = "SWE_light_armor_2_moving.anim"
+}
+
+#Strv m40L (L-60 III) ##########################################################
+animation = {
+	name = "SWE_light_tank_destroyer_brigade_1_attack_animation"
+	file = "SWE_light_tank_destroyer_brigade_1_attack.anim"
+}
+
+animation = {
+	name = "SWE_light_tank_destroyer_brigade_1_idle_animation"
+	file = "SWE_light_tank_destroyer_brigade_1_idle.anim"
+}
+
+animation = {
+	name = "SWE_light_tank_destroyer_brigade_1_moving_animation"
+	file = "SWE_light_tank_destroyer_brigade_1_moving.anim"
+}
+
+#L-62 Anti II ######################################################
+animation = {
+	name = "SWE_light_sp_anti_air_brigade_0_attack_animation"
+	file = "SWE_light_sp_anti_air_brigade_0_attack.anim"
+}
+
+animation = {
+	name = "SWE_light_sp_anti_air_brigade_0_idle_animation"
+	file = "SWE_light_sp_anti_air_brigade_0_idle.anim"
+}
+
+animation = {
+	name = "SWE_light_sp_anti_air_brigade_0_moving_animation"
+	file = "SWE_light_sp_anti_air_brigade_0_moving.anim"
+}
+
+#Lvkv fm/43 ######################################################
+animation = {
+	name = "SWE_light_sp_anti_air_brigade_1_attack_animation"
+	file = "SWE_light_sp_anti_air_brigade_1_attack.anim"
+}
+
+animation = {
+	name = "SWE_light_sp_anti_air_brigade_1_idle_animation"
+	file = "SWE_light_sp_anti_air_brigade_1_idle.anim"
+}
+
+animation = {
+	name = "SWE_light_sp_anti_air_brigade_1_moving_animation"
+	file = "SWE_light_sp_anti_air_brigade_1_moving.anim"
+}
+
+### Medium -----------------------------------------------------------------------------------------------------------------
+
+#Strv m41 ##########################################################
+animation = {
+	name = "SWE_medium_armor_attack_animation"
+	file = "SWE_medium_armor_attack.anim"
+}
+
+animation = {
+	name = "SWE_medium_armor_idle_animation"
+	file = "SWE_medium_armor_idle.anim"
+}
+
+animation = {
+	name = "SWE_medium_armor_moving_animation"
+	file = "SWE_medium_armor_moving.anim"
+}
+
+#Strv m42 ##########################################################
+animation = {
+	name = "SWE_medium_armor_2_attack_animation"
+	file = "SWE_medium_armor_2_attack.anim"
+}
+
+animation = {
+	name = "SWE_medium_armor_2_idle_animation"
+	file = "SWE_medium_armor_2_idle.anim"
+}
+
+animation = {
+	name = "SWE_medium_armor_2_moving_animation"
+	file = "SWE_medium_armor_2_moving.anim"
+}
+
+#SAV m43 (Stormartillerivagn) ######################################
+animation = {
+	name = "SWE_medium_sp_artillery_brigade_attack_animation"
+	file = "SWE_medium_sp_artillery_brigade_attack.anim"
+}
+
+animation = {
+	name = "SWE_medium_sp_artillery_brigade_idle_animation"
+	file = "SWE_medium_sp_artillery_brigade_idle.anim"
+}
+
+animation = {
+	name = "SWE_medium_sp_artillery_brigade_moving_animation"
+	file = "SWE_medium_sp_artillery_brigade_moving.anim"
+}
+
+#SAV m43 (Stormartillerivagn 2 advanced) ######################################
+animation = {
+	name = "SWE_medium_sp_artillery_brigade_2_attack_animation"
+	file = "SWE_medium_sp_artillery_brigade_2_attack.anim"
+}
+
+animation = {
+	name = "SWE_medium_sp_artillery_brigade_2_idle_animation"
+	file = "SWE_medium_sp_artillery_brigade_2_idle.anim"
+}
+
+animation = {
+	name = "SWE_medium_sp_artillery_brigade_2_moving_animation"
+	file = "SWE_medium_sp_artillery_brigade_2_moving.anim"
+}
+
+#IKV-72 ###########################################################
+animation = {
+	name = "SWE_medium_tank_destroyer_brigade_attack_animation"
+	file = "SWE_medium_tank_destroyer_brigade_attack.anim"
+}
+
+animation = {
+	name = "SWE_medium_tank_destroyer_brigade_idle_animation"
+	file = "SWE_medium_tank_destroyer_brigade_idle.anim"
+}
+
+animation = {
+	name = "SWE_medium_tank_destroyer_brigade_moving_animation"
+	file = "SWE_medium_tank_destroyer_brigade_moving.anim"
+}
+
+#Pvkv m/43 (medium) ################################################
+animation = {
+	name = "SWE_medium_tank_destroyer_brigade_2_attack_animation"
+	file = "SWE_medium_tank_destroyer_brigade_2_attack.anim"
+}
+
+animation = {
+	name = "SWE_medium_tank_destroyer_brigade_2_idle_animation"
+	file = "SWE_medium_tank_destroyer_brigade_2_idle.anim"
+}
+
+animation = {
+	name = "SWE_medium_tank_destroyer_brigade_2_moving_animation"
+	file = "SWE_medium_tank_destroyer_brigade_2_moving.anim"
+}
+
+### Heavy  -----------------------------------------------------------------------------------------------------------------
+
+#A4C ################################################
+animation = {
+	name = "SWE_heavy_armor_attack_animation"
+	file = "SWE_heavy_armor_attack.anim"
+}
+
+animation = {
+	name = "SWE_heavy_armor_idle_animation"
+	file = "SWE_heavy_armor_idle.anim"
+}
+
+animation = {
+	name = "SWE_heavy_armor_moving_animation"
+	file = "SWE_heavy_armor_moving.anim"
+}
+
+### Modern -----------------------------------------------------------------------------------------------------------------
+
+#Pvkv m/43 (modern) ################################################
+animation = {
+	name = "SWE_modern_tank_destroyer_brigade_attack_animation"
+	file = "SWE_modern_tank_destroyer_brigade_attack.anim"
+}
+
+animation = {
+	name = "SWE_modern_tank_destroyer_brigade_idle_animation"
+	file = "SWE_modern_tank_destroyer_brigade_idle.anim"
+}
+
+animation = {
+	name = "SWE_modern_tank_destroyer_brigade_moving_animation"
+	file = "SWE_modern_tank_destroyer_brigade_moving.anim"
+}
+
+#fm 43/44 #########################################################
+animation = {
+	name = "SWE_modern_sp_artillery_brigade_attack_animation"
+	file = "SWE_modern_sp_artillery_brigade_attack.anim"
+}
+
+animation = {
+	name = "SWE_modern_sp_artillery_brigade_idle_animation"
+	file = "SWE_modern_sp_artillery_brigade_idle.anim"
+}
+
+animation = {
+	name = "SWE_modern_sp_artillery_brigade_moving_animation"
+	file = "SWE_modern_sp_artillery_brigade_moving.anim"
+}
+
+#Strv 81 (Centurion) ##############################################
+animation = {
+	name = "SWE_modern_armor_attack_animation"
+	file = "SWE_modern_armor_attack.anim"
+}
+
+animation = {
+	name = "SWE_modern_armor_idle_animation"
+	file = "SWE_modern_armor_idle.anim"
+}
+
+animation = {
+	name = "SWE_modern_armor_moving_animation"
+	file = "SWE_modern_armor_moving.anim"
+}
