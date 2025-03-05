@@ -1,0 +1,5 @@
+	spriteType = {
+		name = "GFX_eic_scripted_gui_background"
+		texturefile = "gfx//interface//eic_scripted_gui_background.dds"
+		noOfFrames = 1
+	}

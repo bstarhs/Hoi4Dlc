@@ -1,0 +1,9 @@
+name = "Graveyard of Empires"
+path = dlc/dlc046_graveyard_of_empires/
+steam_id = "3152790"
+pops_id = "hoi4_dlc046_graveyard_of_empires"
+affects_checksum = yes
+affects_compatability = yes
+third_party_content = no
+category = "content"
+checksum = "5fc6adf7d2795dacb9b9333cb802dfa3"

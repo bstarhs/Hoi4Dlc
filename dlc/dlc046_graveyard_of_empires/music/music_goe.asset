@@ -1,0 +1,47 @@
+music = {
+	name = "afghanistan_civilian_homeland"
+	file = "afghanistan_civilian_homeland.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "afghanistan_military_graveyard_of_empires"
+	file = "afghanistan_military_graveyard_of_empires.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "india_civilian_land_of_colours"
+	file = "india_civilian_land_of_colours.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "india_the_japanese_cometh"
+	file = "india_the_japanese_cometh.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "iran_civilian_baghdad_nightlife"
+	file = "iran_civilian_baghdad_nightlife.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "iran_civilian_king_of_kings"
+	file = "iran_civilian_king_of_kings.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "iran_military_between_two_rivers"
+	file = "iran_military_between_two_rivers.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "iran_military_glory_of_cyrus_the_great"
+	file = "iran_military_glory_of_cyrus_the_great.ogg"
+	volume = 0.8
+}

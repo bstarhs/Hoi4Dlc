@@ -1,0 +1,1321 @@
+###araentinian/Chilean/faszilian Voices
+
+####################
+### category     ### 
+####################
+
+category = {
+    name = "Voices"
+    soundeffects = {
+        IRQ_infantry_idle
+        IRQ_infantry_retreat
+        IRQ_infantry_neutral_combat
+        IRQ_infantry_positive_combat
+        IRQ_infantry_move_out
+        PER_infantry_idle
+        PER_infantry_retreat
+        PER_infantry_neutral_combat
+        PER_infantry_positive_combat
+        PER_infantry_move_out
+        AFG_infantry_idle
+        AFG_infantry_retreat
+        AFG_infantry_neutral_combat
+        AFG_infantry_positive_combat
+        AFG_infantry_move_out
+        RAJ_infantry_idle
+        RAJ_infantry_retreat
+        RAJ_infantry_neutral_combat
+        RAJ_infantry_positive_combat
+        RAJ_infantry_move_out
+        URD_F_infantry_idle
+        URD_F_infantry_retreat
+        URD_F_infantry_neutral_combat
+        URD_F_infantry_positive_combat
+        URD_F_infantry_move_out
+    }
+}
+
+####################
+### Soundeffects ### 
+####################
+
+### IRQ ### 
+
+soundeffect = {
+    name = "IRQ_infantry_idle"
+    sounds = {
+        sound = "ara_idle_001"
+        sound = "ara_idle_002"
+        sound = "ara_idle_003"
+        sound = "ara_idle_004"
+        sound = "ara_idle_005"
+        sound = "ara_idle_006"
+        sound = "ara_idle_007"
+        sound = "ara_idle_008"
+        sound = "ara_idle_009"
+        sound = "ara_idle_010"
+        sound = "ara_idle_011"
+        sound = "ara_idle_012"
+        sound = "ara_idle_013"
+        sound = "ara_idle_014"
+        sound = "ara_idle_015"
+        sound = "ara_idle_016"
+        sound = "ara_idle_017"
+        sound = "ara_idle_018"
+        sound = "ara_idle_019"
+        sound = "ara_idle_020"
+        sound = "ara_idle_021"
+        sound = "ara_idle_022"
+        sound = "ara_idle_023"
+        sound = "ara_idle_024"
+        sound = "ara_idle_025"
+        sound = "ara_idle_026"
+        sound = "ara_idle_027"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "IRQ_infantry_retreat"
+    sounds = {
+        sound = "ara_retreat_001"
+        sound = "ara_retreat_002"
+        sound = "ara_retreat_003"
+        sound = "ara_retreat_004"
+        sound = "ara_retreat_005"
+        sound = "ara_retreat_006"
+        sound = "ara_retreat_007"
+        sound = "ara_retreat_008"
+        sound = "ara_retreat_009"
+        sound = "ara_retreat_010"
+        sound = "ara_retreat_011"
+        sound = "ara_retreat_012"
+        sound = "ara_retreat_013"
+        sound = "ara_retreat_014"
+        sound = "ara_retreat_015"
+        sound = "ara_retreat_016"
+        sound = "ara_retreat_017"
+        sound = "ara_retreat_018"
+        sound = "ara_retreat_016_alt"
+        sound = "ara_retreat_017_alt"
+        sound = "ara_retreat_018_alt"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "IRQ_infantry_neutral_combat"
+    sounds = {
+        sound = "ara_neutral_001"
+        sound = "ara_neutral_002"
+        sound = "ara_neutral_003"
+        sound = "ara_neutral_004"
+        sound = "ara_neutral_005"
+        sound = "ara_neutral_006"
+        sound = "ara_neutral_007"
+        sound = "ara_neutral_008"
+        sound = "ara_neutral_009"
+        sound = "ara_neutral_010"
+        sound = "ara_neutral_011"
+        sound = "ara_neutral_012"
+        sound = "ara_neutral_013"
+        sound = "ara_neutral_014"
+        sound = "ara_neutral_015"
+        sound = "ara_neutral_016"
+        sound = "ara_neutral_017"
+        sound = "ara_neutral_018"
+        sound = "ara_neutral_019"
+        sound = "ara_neutral_020"
+        sound = "ara_neutral_021"
+        sound = "ara_neutral_019_alt"
+        sound = "ara_neutral_020_alt"
+        sound = "ara_neutral_021_alt"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "IRQ_infantry_positive_combat"
+    sounds = {
+        sound = "ara_positive_001"
+        sound = "ara_positive_002"
+        sound = "ara_positive_003"
+        sound = "ara_positive_004"
+        sound = "ara_positive_005"
+        sound = "ara_positive_006"
+        sound = "ara_positive_007"
+        sound = "ara_positive_008"
+        sound = "ara_positive_009"
+        sound = "ara_positive_010"
+        sound = "ara_positive_011"
+        sound = "ara_positive_012"
+        sound = "ara_positive_013"
+        sound = "ara_positive_014"
+        sound = "ara_positive_015"
+        sound = "ara_positive_016"
+        sound = "ara_positive_017"
+        sound = "ara_positive_018"
+        sound = "ara_positive_019"
+        sound = "ara_positive_020"
+        sound = "ara_positive_021"
+        sound = "ara_positive_022"
+        sound = "ara_positive_023"
+        sound = "ara_positive_024"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "IRQ_infantry_move_out"
+    sounds = {
+        sound = "ara_positive_010"
+        sound = "ara_positive_011"
+        sound = "ara_positive_012"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+
+### PER ### 
+
+soundeffect = {
+    name = "PER_infantry_idle"
+    sounds = {
+        sound = "fas_idle_001"
+        sound = "fas_idle_002"
+        sound = "fas_idle_003"
+        sound = "fas_idle_004"
+        sound = "fas_idle_005"
+        sound = "fas_idle_006"
+        sound = "fas_idle_007"
+        sound = "fas_idle_008"
+        sound = "fas_idle_009"
+        sound = "fas_idle_010"
+        sound = "fas_idle_011"
+        sound = "fas_idle_012"
+        sound = "fas_idle_013"
+        sound = "fas_idle_014"
+        sound = "fas_idle_015"
+        sound = "fas_idle_016"
+        sound = "fas_idle_017"
+        sound = "fas_idle_018"
+        sound = "fas_idle_019"
+        sound = "fas_idle_020"
+        sound = "fas_idle_021"
+        sound = "fas_idle_022"
+        sound = "fas_idle_023"
+        sound = "fas_idle_024"
+        sound = "fas_idle_025"
+        sound = "fas_idle_026"
+        sound = "fas_idle_027"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "PER_infantry_retreat"
+    sounds = {
+        sound = "fas_retreat_001"
+        sound = "fas_retreat_002"
+        sound = "fas_retreat_003"
+        sound = "fas_retreat_004"
+        sound = "fas_retreat_005"
+        sound = "fas_retreat_006"
+        sound = "fas_retreat_007"
+        sound = "fas_retreat_008"
+        sound = "fas_retreat_009"
+        sound = "fas_retreat_010"
+        sound = "fas_retreat_011"
+        sound = "fas_retreat_012"
+        sound = "fas_retreat_013"
+        sound = "fas_retreat_014"
+        sound = "fas_retreat_015"
+        sound = "fas_retreat_016"
+        sound = "fas_retreat_017"
+        sound = "fas_retreat_018"
+        sound = "fas_retreat_016_alt"
+        sound = "fas_retreat_017_alt"
+        sound = "fas_retreat_018_alt"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "PER_infantry_neutral_combat"
+    sounds = {
+        sound = "fas_neutral_001"
+        sound = "fas_neutral_002"
+        sound = "fas_neutral_003"
+        sound = "fas_neutral_004"
+        sound = "fas_neutral_005"
+        sound = "fas_neutral_006"
+        sound = "fas_neutral_007"
+        sound = "fas_neutral_008"
+        sound = "fas_neutral_009"
+        sound = "fas_neutral_010"
+        sound = "fas_neutral_011"
+        sound = "fas_neutral_012"
+        sound = "fas_neutral_013"
+        sound = "fas_neutral_014"
+        sound = "fas_neutral_015"
+        sound = "fas_neutral_016"
+        sound = "fas_neutral_017"
+        sound = "fas_neutral_018"
+        sound = "fas_neutral_019"
+        sound = "fas_neutral_020"
+        sound = "fas_neutral_021"
+        sound = "fas_neutral_019_alt"
+        sound = "fas_neutral_020_alt"
+        sound = "fas_neutral_021_alt"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "PER_infantry_positive_combat"
+    sounds = {
+        sound = "fas_positive_001"
+        sound = "fas_positive_002"
+        sound = "fas_positive_003"
+        sound = "fas_positive_004"
+        sound = "fas_positive_005"
+        sound = "fas_positive_006"
+        sound = "fas_positive_007"
+        sound = "fas_positive_008"
+        sound = "fas_positive_009"
+        sound = "fas_positive_010"
+        sound = "fas_positive_011"
+        sound = "fas_positive_012"
+        sound = "fas_positive_013"
+        sound = "fas_positive_014"
+        sound = "fas_positive_015"
+        sound = "fas_positive_016"
+        sound = "fas_positive_017"
+        sound = "fas_positive_018"
+        sound = "fas_positive_019"
+        sound = "fas_positive_020"
+        sound = "fas_positive_021"
+        sound = "fas_positive_022"
+        sound = "fas_positive_023"
+        sound = "fas_positive_024"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "PER_infantry_move_out"
+    sounds = {
+        sound = "fas_positive_010"
+        sound = "fas_positive_011"
+        sound = "fas_positive_012"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+
+### AFG ### 
+
+soundeffect = {
+    name = "AFG_infantry_idle"
+    sounds = {
+        sound = "pus_idle_001"
+        sound = "pus_idle_002"
+        sound = "pus_idle_003"
+        sound = "pus_idle_004"
+        sound = "pus_idle_005"
+        sound = "pus_idle_006"
+        sound = "pus_idle_007"
+        sound = "pus_idle_008"
+        sound = "pus_idle_009"
+        sound = "pus_idle_010"
+        sound = "pus_idle_011"
+        sound = "pus_idle_012"
+        sound = "pus_idle_013"
+        sound = "pus_idle_014"
+        sound = "pus_idle_015"
+        sound = "pus_idle_016"
+        sound = "pus_idle_017"
+        sound = "pus_idle_018"
+        sound = "pus_idle_019"
+        sound = "pus_idle_020"
+        sound = "pus_idle_021"
+        sound = "pus_idle_022"
+        sound = "pus_idle_023"
+        sound = "pus_idle_024"
+        sound = "pus_idle_025"
+        sound = "pus_idle_026"
+        sound = "pus_idle_027"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "AFG_infantry_retreat"
+    sounds = {
+        sound = "pus_retreat_001"
+        sound = "pus_retreat_002"
+        sound = "pus_retreat_003"
+        sound = "pus_retreat_004"
+        sound = "pus_retreat_005"
+        sound = "pus_retreat_006"
+        sound = "pus_retreat_007"
+        sound = "pus_retreat_008"
+        sound = "pus_retreat_009"
+        sound = "pus_retreat_010"
+        sound = "pus_retreat_011"
+        sound = "pus_retreat_012"
+        sound = "pus_retreat_013"
+        sound = "pus_retreat_014"
+        sound = "pus_retreat_015"
+        sound = "pus_retreat_016"
+        sound = "pus_retreat_017"
+        sound = "pus_retreat_018"
+        sound = "pus_retreat_016_alt"
+        sound = "pus_retreat_017_alt"
+        sound = "pus_retreat_018_alt"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "AFG_infantry_neutral_combat"
+    sounds = {
+        sound = "pus_neutral_001"
+        sound = "pus_neutral_002"
+        sound = "pus_neutral_003"
+        sound = "pus_neutral_004"
+        sound = "pus_neutral_005"
+        sound = "pus_neutral_006"
+        sound = "pus_neutral_007"
+        sound = "pus_neutral_008"
+        sound = "pus_neutral_009"
+        sound = "pus_neutral_010"
+        sound = "pus_neutral_011"
+        sound = "pus_neutral_012"
+        sound = "pus_neutral_013"
+        sound = "pus_neutral_014"
+        sound = "pus_neutral_015"
+        sound = "pus_neutral_016"
+        sound = "pus_neutral_017"
+        sound = "pus_neutral_018"
+        sound = "pus_neutral_019"
+        sound = "pus_neutral_020"
+        sound = "pus_neutral_021"
+        sound = "pus_neutral_019_alt"
+        sound = "pus_neutral_020_alt"
+        sound = "pus_neutral_021_alt"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "AFG_infantry_positive_combat"
+    sounds = {
+        sound = "pus_positive_001"
+        sound = "pus_positive_002"
+        sound = "pus_positive_003"
+        sound = "pus_positive_004"
+        sound = "pus_positive_005"
+        sound = "pus_positive_006"
+        sound = "pus_positive_007"
+        sound = "pus_positive_008"
+        sound = "pus_positive_009"
+        sound = "pus_positive_010"
+        sound = "pus_positive_011"
+        sound = "pus_positive_012"
+        sound = "pus_positive_013"
+        sound = "pus_positive_014"
+        sound = "pus_positive_015"
+        sound = "pus_positive_016"
+        sound = "pus_positive_017"
+        sound = "pus_positive_018"
+        sound = "pus_positive_019"
+        sound = "pus_positive_020"
+        sound = "pus_positive_021"
+        sound = "pus_positive_022"
+        sound = "pus_positive_023"
+        sound = "pus_positive_024"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "AFG_infantry_move_out"
+    sounds = {
+        sound = "pus_positive_010"
+        sound = "pus_positive_011"
+        sound = "pus_positive_012"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+
+### RAJ ### 
+
+soundeffect = {
+    name = "RAJ_infantry_idle"
+    sounds = {
+        sound = "urd_idle_001"
+        sound = "urd_idle_002"
+        sound = "urd_idle_003"
+        sound = "urd_idle_004"
+        sound = "urd_idle_005"
+        sound = "urd_idle_006"
+        sound = "urd_idle_007"
+        sound = "urd_idle_008"
+        sound = "urd_idle_009"
+        sound = "urd_idle_010"
+        sound = "urd_idle_011"
+        sound = "urd_idle_012"
+        sound = "urd_idle_013"
+        sound = "urd_idle_014"
+        sound = "urd_idle_015"
+        sound = "urd_idle_016"
+        sound = "urd_idle_017"
+        sound = "urd_idle_018"
+        sound = "urd_idle_019"
+        sound = "urd_idle_020"
+        sound = "urd_idle_021"
+        sound = "urd_idle_022"
+        sound = "urd_idle_023"
+        sound = "urd_idle_024"
+        sound = "urd_idle_025"
+        sound = "urd_idle_026"
+        sound = "urd_idle_027"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "RAJ_infantry_retreat"
+    sounds = {
+        sound = "urd_retreat_001"
+        sound = "urd_retreat_002"
+        sound = "urd_retreat_003"
+        sound = "urd_retreat_004"
+        sound = "urd_retreat_005"
+        sound = "urd_retreat_006"
+        sound = "urd_retreat_007"
+        sound = "urd_retreat_008"
+        sound = "urd_retreat_009"
+        sound = "urd_retreat_010"
+        sound = "urd_retreat_011"
+        sound = "urd_retreat_012"
+        sound = "urd_retreat_013"
+        sound = "urd_retreat_014"
+        sound = "urd_retreat_015"
+        sound = "urd_retreat_016"
+        sound = "urd_retreat_017"
+        sound = "urd_retreat_018"
+        sound = "urd_retreat_016_alt"
+        sound = "urd_retreat_017_alt"
+        sound = "urd_retreat_018_alt"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "RAJ_infantry_neutral_combat"
+    sounds = {
+        sound = "urd_neutral_001"
+        sound = "urd_neutral_002"
+        sound = "urd_neutral_003"
+        sound = "urd_neutral_004"
+        sound = "urd_neutral_005"
+        sound = "urd_neutral_006"
+        sound = "urd_neutral_007"
+        sound = "urd_neutral_008"
+        sound = "urd_neutral_009"
+        sound = "urd_neutral_010"
+        sound = "urd_neutral_011"
+        sound = "urd_neutral_012"
+        sound = "urd_neutral_013"
+        sound = "urd_neutral_014"
+        sound = "urd_neutral_015"
+        sound = "urd_neutral_016"
+        sound = "urd_neutral_017"
+        sound = "urd_neutral_018"
+        sound = "urd_neutral_019"
+        sound = "urd_neutral_020"
+        sound = "urd_neutral_021"
+        sound = "urd_neutral_019_alt"
+        sound = "urd_neutral_020_alt"
+        sound = "urd_neutral_021_alt"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "RAJ_infantry_positive_combat"
+    sounds = {
+        sound = "urd_positive_001"
+        sound = "urd_positive_002"
+        sound = "urd_positive_003"
+        sound = "urd_positive_004"
+        sound = "urd_positive_005"
+        sound = "urd_positive_006"
+        sound = "urd_positive_007"
+        sound = "urd_positive_008"
+        sound = "urd_positive_009"
+        sound = "urd_positive_010"
+        sound = "urd_positive_011"
+        sound = "urd_positive_012"
+        sound = "urd_positive_013"
+        sound = "urd_positive_014"
+        sound = "urd_positive_015"
+        sound = "urd_positive_016"
+        sound = "urd_positive_017"
+        sound = "urd_positive_018"
+        sound = "urd_positive_019"
+        sound = "urd_positive_020"
+        sound = "urd_positive_021"
+        sound = "urd_positive_022"
+        sound = "urd_positive_023"
+        sound = "urd_positive_024"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "RAJ_infantry_move_out"
+    sounds = {
+        sound = "urd_positive_010"
+        sound = "urd_positive_011"
+        sound = "urd_positive_012"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+
+### Raj - Female - URD_F ### 
+
+soundeffect = {
+    name = "URD_F_infantry_idle"
+    sounds = {
+        sound = "urd_f_idle_001"
+        sound = "urd_f_idle_002"
+        sound = "urd_f_idle_003"
+        sound = "urd_f_idle_004"
+        sound = "urd_f_idle_005"
+        sound = "urd_f_idle_006"
+        sound = "urd_f_idle_007"
+        sound = "urd_f_idle_008"
+        sound = "urd_f_idle_009"
+        sound = "urd_f_idle_010"
+        sound = "urd_f_idle_011"
+        sound = "urd_f_idle_012"
+        sound = "urd_f_idle_013"
+        sound = "urd_f_idle_014"
+        sound = "urd_f_idle_015"
+        sound = "urd_f_idle_016"
+        sound = "urd_f_idle_017"
+        sound = "urd_f_idle_018"
+        sound = "urd_f_idle_019"
+        sound = "urd_f_idle_020"
+        sound = "urd_f_idle_021"
+        sound = "urd_f_idle_022"
+        sound = "urd_f_idle_023"
+        sound = "urd_f_idle_024"
+        sound = "urd_f_idle_025"
+        sound = "urd_f_idle_026"
+        sound = "urd_f_idle_027"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "URD_F_infantry_retreat"
+    sounds = {
+        sound = "urd_f_retreat_001"
+        sound = "urd_f_retreat_002"
+        sound = "urd_f_retreat_003"
+        sound = "urd_f_retreat_004"
+        sound = "urd_f_retreat_005"
+        sound = "urd_f_retreat_006"
+        sound = "urd_f_retreat_007"
+        sound = "urd_f_retreat_008"
+        sound = "urd_f_retreat_009"
+        sound = "urd_f_retreat_010"
+        sound = "urd_f_retreat_011"
+        sound = "urd_f_retreat_012"
+        sound = "urd_f_retreat_013"
+        sound = "urd_f_retreat_014"
+        sound = "urd_f_retreat_015"
+        sound = "urd_f_retreat_016"
+        sound = "urd_f_retreat_017"
+        sound = "urd_f_retreat_018"
+        sound = "urd_f_retreat_016_alt"
+        sound = "urd_f_retreat_017_alt"
+        sound = "urd_f_retreat_018_alt"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "URD_F_infantry_neutral_combat"
+    sounds = {
+        sound = "urd_f_neutral_001"
+        sound = "urd_f_neutral_002"
+        sound = "urd_f_neutral_003"
+        sound = "urd_f_neutral_004"
+        sound = "urd_f_neutral_005"
+        sound = "urd_f_neutral_006"
+        sound = "urd_f_neutral_007"
+        sound = "urd_f_neutral_008"
+        sound = "urd_f_neutral_009"
+        sound = "urd_f_neutral_010"
+        sound = "urd_f_neutral_011"
+        sound = "urd_f_neutral_012"
+        sound = "urd_f_neutral_013"
+        sound = "urd_f_neutral_014"
+        sound = "urd_f_neutral_015"
+        sound = "urd_f_neutral_016"
+        sound = "urd_f_neutral_017"
+        sound = "urd_f_neutral_018"
+        sound = "urd_f_neutral_019"
+        sound = "urd_f_neutral_020"
+        sound = "urd_f_neutral_021"
+        sound = "urd_f_neutral_019_alt"
+        sound = "urd_f_neutral_020_alt"
+        sound = "urd_f_neutral_021_alt"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "URD_F_infantry_positive_combat"
+    sounds = {
+        sound = "urd_f_positive_001"
+        sound = "urd_f_positive_002"
+        sound = "urd_f_positive_003"
+        sound = "urd_f_positive_004"
+        sound = "urd_f_positive_005"
+        sound = "urd_f_positive_006"
+        sound = "urd_f_positive_007"
+        sound = "urd_f_positive_008"
+        sound = "urd_f_positive_009"
+        sound = "urd_f_positive_010"
+        sound = "urd_f_positive_011"
+        sound = "urd_f_positive_012"
+        sound = "urd_f_positive_013"
+        sound = "urd_f_positive_014"
+        sound = "urd_f_positive_015"
+        sound = "urd_f_positive_016"
+        sound = "urd_f_positive_017"
+        sound = "urd_f_positive_018"
+        sound = "urd_f_positive_019"
+        sound = "urd_f_positive_020"
+        sound = "urd_f_positive_021"
+        sound = "urd_f_positive_022"
+        sound = "urd_f_positive_023"
+        sound = "urd_f_positive_024"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+soundeffect = {
+    name = "URD_F_infantry_move_out"
+    sounds = {
+        sound = "urd_f_positive_010"
+        sound = "urd_f_positive_011"
+        sound = "urd_f_positive_012"
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.50
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+
+###############
+#### SOUNDS ### 
+###############
+
+### ara ###
+
+sound = { name = "ara_idle_001"         file = "ara/idle_001.wav" }
+sound = { name = "ara_idle_002"         file = "ara/idle_002.wav" }
+sound = { name = "ara_idle_003"         file = "ara/idle_003.wav" }
+sound = { name = "ara_idle_004"         file = "ara/idle_004.wav" }
+sound = { name = "ara_idle_005"         file = "ara/idle_005.wav" }
+sound = { name = "ara_idle_006"         file = "ara/idle_006.wav" }
+sound = { name = "ara_idle_007"         file = "ara/idle_007.wav" }
+sound = { name = "ara_idle_008"         file = "ara/idle_008.wav" }
+sound = { name = "ara_idle_009"         file = "ara/idle_009.wav" }
+sound = { name = "ara_idle_010"         file = "ara/idle_010.wav" }
+sound = { name = "ara_idle_011"         file = "ara/idle_011.wav" }
+sound = { name = "ara_idle_012"         file = "ara/idle_012.wav" }
+sound = { name = "ara_idle_013"         file = "ara/idle_013.wav" }
+sound = { name = "ara_idle_014"         file = "ara/idle_014.wav" }
+sound = { name = "ara_idle_015"         file = "ara/idle_015.wav" }
+sound = { name = "ara_idle_016"         file = "ara/idle_016.wav" }
+sound = { name = "ara_idle_017"         file = "ara/idle_017.wav" }
+sound = { name = "ara_idle_018"         file = "ara/idle_018.wav" }
+sound = { name = "ara_idle_019"         file = "ara/idle_019.wav" }
+sound = { name = "ara_idle_020"         file = "ara/idle_020.wav" }
+sound = { name = "ara_idle_021"         file = "ara/idle_021.wav" }
+sound = { name = "ara_idle_022"         file = "ara/idle_022.wav" }
+sound = { name = "ara_idle_023"         file = "ara/idle_023.wav" }
+sound = { name = "ara_idle_024"         file = "ara/idle_024.wav" }
+sound = { name = "ara_idle_025"         file = "ara/idle_025.wav" }
+sound = { name = "ara_idle_026"         file = "ara/idle_026.wav" }
+sound = { name = "ara_idle_027"         file = "ara/idle_027.wav" }
+sound = { name = "ara_retreat_001"      file = "ara/retreat_001.wav" }
+sound = { name = "ara_retreat_002"      file = "ara/retreat_002.wav" }
+sound = { name = "ara_retreat_003"      file = "ara/retreat_003.wav" }
+sound = { name = "ara_retreat_004"      file = "ara/retreat_004.wav" }
+sound = { name = "ara_retreat_005"      file = "ara/retreat_005.wav" }
+sound = { name = "ara_retreat_006"      file = "ara/retreat_006.wav" }
+sound = { name = "ara_retreat_007"      file = "ara/retreat_007.wav" }
+sound = { name = "ara_retreat_008"      file = "ara/retreat_008.wav" }
+sound = { name = "ara_retreat_009"      file = "ara/retreat_009.wav" }
+sound = { name = "ara_retreat_010"      file = "ara/retreat_010.wav" }
+sound = { name = "ara_retreat_011"      file = "ara/retreat_011.wav" }
+sound = { name = "ara_retreat_012"      file = "ara/retreat_012.wav" }
+sound = { name = "ara_retreat_013"      file = "ara/retreat_013.wav" }
+sound = { name = "ara_retreat_014"      file = "ara/retreat_014.wav" }
+sound = { name = "ara_retreat_015"      file = "ara/retreat_015.wav" }
+sound = { name = "ara_retreat_016"      file = "ara/retreat_016.wav" }
+sound = { name = "ara_retreat_017"      file = "ara/retreat_017.wav" }
+sound = { name = "ara_retreat_018"      file = "ara/retreat_018.wav" }
+sound = { name = "ara_retreat_016_alt"  file = "ara/retreat_016_alt.wav" }
+sound = { name = "ara_retreat_017_alt"  file = "ara/retreat_017_alt.wav" }
+sound = { name = "ara_retreat_018_alt"  file = "ara/retreat_018_alt.wav" }
+sound = { name = "ara_neutral_001"      file = "ara/neutral_001.wav" }
+sound = { name = "ara_neutral_002"      file = "ara/neutral_002.wav" }
+sound = { name = "ara_neutral_003"      file = "ara/neutral_003.wav" }
+sound = { name = "ara_neutral_004"      file = "ara/neutral_004.wav" }
+sound = { name = "ara_neutral_005"      file = "ara/neutral_005.wav" }
+sound = { name = "ara_neutral_006"      file = "ara/neutral_006.wav" }
+sound = { name = "ara_neutral_007"      file = "ara/neutral_007.wav" }
+sound = { name = "ara_neutral_008"      file = "ara/neutral_008.wav" }
+sound = { name = "ara_neutral_009"      file = "ara/neutral_009.wav" }
+sound = { name = "ara_neutral_010"      file = "ara/neutral_010.wav" }
+sound = { name = "ara_neutral_011"      file = "ara/neutral_011.wav" }
+sound = { name = "ara_neutral_012"      file = "ara/neutral_012.wav" }
+sound = { name = "ara_neutral_013"      file = "ara/neutral_013.wav" }
+sound = { name = "ara_neutral_014"      file = "ara/neutral_014.wav" }
+sound = { name = "ara_neutral_015"      file = "ara/neutral_015.wav" }
+sound = { name = "ara_neutral_016"      file = "ara/neutral_016.wav" }
+sound = { name = "ara_neutral_017"      file = "ara/neutral_017.wav" }
+sound = { name = "ara_neutral_018"      file = "ara/neutral_018.wav" }
+sound = { name = "ara_neutral_019"      file = "ara/neutral_019.wav" }
+sound = { name = "ara_neutral_020"      file = "ara/neutral_020.wav" }
+sound = { name = "ara_neutral_021"      file = "ara/neutral_021.wav" }
+sound = { name = "ara_neutral_019_alt"  file = "ara/neutral_019_alt.wav" }
+sound = { name = "ara_neutral_020_alt"  file = "ara/neutral_020_alt.wav" }
+sound = { name = "ara_neutral_021_alt"  file = "ara/neutral_021_alt.wav" }
+sound = { name = "ara_positive_001"     file = "ara/positive_001.wav" }
+sound = { name = "ara_positive_002"     file = "ara/positive_002.wav" }
+sound = { name = "ara_positive_003"     file = "ara/positive_003.wav" }
+sound = { name = "ara_positive_004"     file = "ara/positive_004.wav" }
+sound = { name = "ara_positive_005"     file = "ara/positive_005.wav" }
+sound = { name = "ara_positive_006"     file = "ara/positive_006.wav" }
+sound = { name = "ara_positive_007"     file = "ara/positive_007.wav" }
+sound = { name = "ara_positive_008"     file = "ara/positive_008.wav" }
+sound = { name = "ara_positive_009"     file = "ara/positive_009.wav" }
+sound = { name = "ara_positive_010"     file = "ara/positive_010.wav" }
+sound = { name = "ara_positive_011"     file = "ara/positive_011.wav" }
+sound = { name = "ara_positive_012"     file = "ara/positive_012.wav" }
+sound = { name = "ara_positive_013"     file = "ara/positive_013.wav" }
+sound = { name = "ara_positive_014"     file = "ara/positive_014.wav" }
+sound = { name = "ara_positive_015"     file = "ara/positive_015.wav" }
+sound = { name = "ara_positive_016"     file = "ara/positive_016.wav" }
+sound = { name = "ara_positive_017"     file = "ara/positive_017.wav" }
+sound = { name = "ara_positive_018"     file = "ara/positive_018.wav" }
+sound = { name = "ara_positive_019"     file = "ara/positive_019.wav" }
+sound = { name = "ara_positive_020"     file = "ara/positive_020.wav" }
+sound = { name = "ara_positive_021"     file = "ara/positive_021.wav" }
+sound = { name = "ara_positive_022"     file = "ara/positive_022.wav" }
+sound = { name = "ara_positive_023"     file = "ara/positive_023.wav" }
+sound = { name = "ara_positive_024"     file = "ara/positive_024.wav" }
+
+
+### fas ###
+
+sound = { name = "fas_idle_001"         file = "fas/idle_001.wav" }
+sound = { name = "fas_idle_002"         file = "fas/idle_002.wav" }
+sound = { name = "fas_idle_003"         file = "fas/idle_003.wav" }
+sound = { name = "fas_idle_004"         file = "fas/idle_004.wav" }
+sound = { name = "fas_idle_005"         file = "fas/idle_005.wav" }
+sound = { name = "fas_idle_006"         file = "fas/idle_006.wav" }
+sound = { name = "fas_idle_007"         file = "fas/idle_007.wav" }
+sound = { name = "fas_idle_008"         file = "fas/idle_008.wav" }
+sound = { name = "fas_idle_009"         file = "fas/idle_009.wav" }
+sound = { name = "fas_idle_010"         file = "fas/idle_010.wav" }
+sound = { name = "fas_idle_011"         file = "fas/idle_011.wav" }
+sound = { name = "fas_idle_012"         file = "fas/idle_012.wav" }
+sound = { name = "fas_idle_013"         file = "fas/idle_013.wav" }
+sound = { name = "fas_idle_014"         file = "fas/idle_014.wav" }
+sound = { name = "fas_idle_015"         file = "fas/idle_015.wav" }
+sound = { name = "fas_idle_016"         file = "fas/idle_016.wav" }
+sound = { name = "fas_idle_017"         file = "fas/idle_017.wav" }
+sound = { name = "fas_idle_018"         file = "fas/idle_018.wav" }
+sound = { name = "fas_idle_019"         file = "fas/idle_019.wav" }
+sound = { name = "fas_idle_020"         file = "fas/idle_020.wav" }
+sound = { name = "fas_idle_021"         file = "fas/idle_021.wav" }
+sound = { name = "fas_idle_022"         file = "fas/idle_022.wav" }
+sound = { name = "fas_idle_023"         file = "fas/idle_023.wav" }
+sound = { name = "fas_idle_024"         file = "fas/idle_024.wav" }
+sound = { name = "fas_idle_025"         file = "fas/idle_025.wav" }
+sound = { name = "fas_idle_026"         file = "fas/idle_026.wav" }
+sound = { name = "fas_idle_027"         file = "fas/idle_027.wav" }
+sound = { name = "fas_retreat_001"      file = "fas/retreat_001.wav" }
+sound = { name = "fas_retreat_002"      file = "fas/retreat_002.wav" }
+sound = { name = "fas_retreat_003"      file = "fas/retreat_003.wav" }
+sound = { name = "fas_retreat_004"      file = "fas/retreat_004.wav" }
+sound = { name = "fas_retreat_005"      file = "fas/retreat_005.wav" }
+sound = { name = "fas_retreat_006"      file = "fas/retreat_006.wav" }
+sound = { name = "fas_retreat_007"      file = "fas/retreat_007.wav" }
+sound = { name = "fas_retreat_008"      file = "fas/retreat_008.wav" }
+sound = { name = "fas_retreat_009"      file = "fas/retreat_009.wav" }
+sound = { name = "fas_retreat_010"      file = "fas/retreat_010.wav" }
+sound = { name = "fas_retreat_011"      file = "fas/retreat_011.wav" }
+sound = { name = "fas_retreat_012"      file = "fas/retreat_012.wav" }
+sound = { name = "fas_retreat_013"      file = "fas/retreat_013.wav" }
+sound = { name = "fas_retreat_014"      file = "fas/retreat_014.wav" }
+sound = { name = "fas_retreat_015"      file = "fas/retreat_015.wav" }
+sound = { name = "fas_retreat_016"      file = "fas/retreat_016.wav" }
+sound = { name = "fas_retreat_017"      file = "fas/retreat_017.wav" }
+sound = { name = "fas_retreat_018"      file = "fas/retreat_018.wav" }
+sound = { name = "fas_retreat_016_alt"  file = "fas/retreat_016_alt.wav" }
+sound = { name = "fas_retreat_017_alt"  file = "fas/retreat_017_alt.wav" }
+sound = { name = "fas_retreat_018_alt"  file = "fas/retreat_018_alt.wav" }
+sound = { name = "fas_neutral_001"      file = "fas/neutral_001.wav" }
+sound = { name = "fas_neutral_002"      file = "fas/neutral_002.wav" }
+sound = { name = "fas_neutral_003"      file = "fas/neutral_003.wav" }
+sound = { name = "fas_neutral_004"      file = "fas/neutral_004.wav" }
+sound = { name = "fas_neutral_005"      file = "fas/neutral_005.wav" }
+sound = { name = "fas_neutral_006"      file = "fas/neutral_006.wav" }
+sound = { name = "fas_neutral_007"      file = "fas/neutral_007.wav" }
+sound = { name = "fas_neutral_008"      file = "fas/neutral_008.wav" }
+sound = { name = "fas_neutral_009"      file = "fas/neutral_009.wav" }
+sound = { name = "fas_neutral_010"      file = "fas/neutral_010.wav" }
+sound = { name = "fas_neutral_011"      file = "fas/neutral_011.wav" }
+sound = { name = "fas_neutral_012"      file = "fas/neutral_012.wav" }
+sound = { name = "fas_neutral_013"      file = "fas/neutral_013.wav" }
+sound = { name = "fas_neutral_014"      file = "fas/neutral_014.wav" }
+sound = { name = "fas_neutral_015"      file = "fas/neutral_015.wav" }
+sound = { name = "fas_neutral_016"      file = "fas/neutral_016.wav" }
+sound = { name = "fas_neutral_017"      file = "fas/neutral_017.wav" }
+sound = { name = "fas_neutral_018"      file = "fas/neutral_018.wav" }
+sound = { name = "fas_neutral_019"      file = "fas/neutral_019.wav" }
+sound = { name = "fas_neutral_020"      file = "fas/neutral_020.wav" }
+sound = { name = "fas_neutral_021"      file = "fas/neutral_021.wav" }
+sound = { name = "fas_neutral_019_alt"  file = "fas/neutral_019_alt.wav" }
+sound = { name = "fas_neutral_020_alt"  file = "fas/neutral_020_alt.wav" }
+sound = { name = "fas_neutral_021_alt"  file = "fas/neutral_021_alt.wav" }
+sound = { name = "fas_positive_001"     file = "fas/positive_001.wav" }
+sound = { name = "fas_positive_002"     file = "fas/positive_002.wav" }
+sound = { name = "fas_positive_003"     file = "fas/positive_003.wav" }
+sound = { name = "fas_positive_004"     file = "fas/positive_004.wav" }
+sound = { name = "fas_positive_005"     file = "fas/positive_005.wav" }
+sound = { name = "fas_positive_006"     file = "fas/positive_006.wav" }
+sound = { name = "fas_positive_007"     file = "fas/positive_007.wav" }
+sound = { name = "fas_positive_008"     file = "fas/positive_008.wav" }
+sound = { name = "fas_positive_009"     file = "fas/positive_009.wav" }
+sound = { name = "fas_positive_010"     file = "fas/positive_010.wav" }
+sound = { name = "fas_positive_011"     file = "fas/positive_011.wav" }
+sound = { name = "fas_positive_012"     file = "fas/positive_012.wav" }
+sound = { name = "fas_positive_013"     file = "fas/positive_013.wav" }
+sound = { name = "fas_positive_014"     file = "fas/positive_014.wav" }
+sound = { name = "fas_positive_015"     file = "fas/positive_015.wav" }
+sound = { name = "fas_positive_016"     file = "fas/positive_016.wav" }
+sound = { name = "fas_positive_017"     file = "fas/positive_017.wav" }
+sound = { name = "fas_positive_018"     file = "fas/positive_018.wav" }
+sound = { name = "fas_positive_019"     file = "fas/positive_019.wav" }
+sound = { name = "fas_positive_020"     file = "fas/positive_020.wav" }
+sound = { name = "fas_positive_021"     file = "fas/positive_021.wav" }
+sound = { name = "fas_positive_022"     file = "fas/positive_022.wav" }
+sound = { name = "fas_positive_023"     file = "fas/positive_023.wav" }
+sound = { name = "fas_positive_024"     file = "fas/positive_024.wav" }
+
+
+### pus ###
+
+sound = { name = "pus_idle_001"         file = "pus/idle_001.wav" }
+sound = { name = "pus_idle_002"         file = "pus/idle_002.wav" }
+sound = { name = "pus_idle_003"         file = "pus/idle_003.wav" }
+sound = { name = "pus_idle_004"         file = "pus/idle_004.wav" }
+sound = { name = "pus_idle_005"         file = "pus/idle_005.wav" }
+sound = { name = "pus_idle_006"         file = "pus/idle_006.wav" }
+sound = { name = "pus_idle_007"         file = "pus/idle_007.wav" }
+sound = { name = "pus_idle_008"         file = "pus/idle_008.wav" }
+sound = { name = "pus_idle_009"         file = "pus/idle_009.wav" }
+sound = { name = "pus_idle_010"         file = "pus/idle_010.wav" }
+sound = { name = "pus_idle_011"         file = "pus/idle_011.wav" }
+sound = { name = "pus_idle_012"         file = "pus/idle_012.wav" }
+sound = { name = "pus_idle_013"         file = "pus/idle_013.wav" }
+sound = { name = "pus_idle_014"         file = "pus/idle_014.wav" }
+sound = { name = "pus_idle_015"         file = "pus/idle_015.wav" }
+sound = { name = "pus_idle_016"         file = "pus/idle_016.wav" }
+sound = { name = "pus_idle_017"         file = "pus/idle_017.wav" }
+sound = { name = "pus_idle_018"         file = "pus/idle_018.wav" }
+sound = { name = "pus_idle_019"         file = "pus/idle_019.wav" }
+sound = { name = "pus_idle_020"         file = "pus/idle_020.wav" }
+sound = { name = "pus_idle_021"         file = "pus/idle_021.wav" }
+sound = { name = "pus_idle_022"         file = "pus/idle_022.wav" }
+sound = { name = "pus_idle_023"         file = "pus/idle_023.wav" }
+sound = { name = "pus_idle_024"         file = "pus/idle_024.wav" }
+sound = { name = "pus_idle_025"         file = "pus/idle_025.wav" }
+sound = { name = "pus_idle_026"         file = "pus/idle_026.wav" }
+sound = { name = "pus_idle_027"         file = "pus/idle_027.wav" }
+sound = { name = "pus_retreat_001"      file = "pus/retreat_001.wav" }
+sound = { name = "pus_retreat_002"      file = "pus/retreat_002.wav" }
+sound = { name = "pus_retreat_003"      file = "pus/retreat_003.wav" }
+sound = { name = "pus_retreat_004"      file = "pus/retreat_004.wav" }
+sound = { name = "pus_retreat_005"      file = "pus/retreat_005.wav" }
+sound = { name = "pus_retreat_006"      file = "pus/retreat_006.wav" }
+sound = { name = "pus_retreat_007"      file = "pus/retreat_007.wav" }
+sound = { name = "pus_retreat_008"      file = "pus/retreat_008.wav" }
+sound = { name = "pus_retreat_009"      file = "pus/retreat_009.wav" }
+sound = { name = "pus_retreat_010"      file = "pus/retreat_010.wav" }
+sound = { name = "pus_retreat_011"      file = "pus/retreat_011.wav" }
+sound = { name = "pus_retreat_012"      file = "pus/retreat_012.wav" }
+sound = { name = "pus_retreat_013"      file = "pus/retreat_013.wav" }
+sound = { name = "pus_retreat_014"      file = "pus/retreat_014.wav" }
+sound = { name = "pus_retreat_015"      file = "pus/retreat_015.wav" }
+sound = { name = "pus_retreat_016"      file = "pus/retreat_016.wav" }
+sound = { name = "pus_retreat_017"      file = "pus/retreat_017.wav" }
+sound = { name = "pus_retreat_018"      file = "pus/retreat_018.wav" }
+sound = { name = "pus_retreat_016_alt"  file = "pus/retreat_016_alt.wav" }
+sound = { name = "pus_retreat_017_alt"  file = "pus/retreat_017_alt.wav" }
+sound = { name = "pus_retreat_018_alt"  file = "pus/retreat_018_alt.wav" }
+sound = { name = "pus_neutral_001"      file = "pus/neutral_001.wav" }
+sound = { name = "pus_neutral_002"      file = "pus/neutral_002.wav" }
+sound = { name = "pus_neutral_003"      file = "pus/neutral_003.wav" }
+sound = { name = "pus_neutral_004"      file = "pus/neutral_004.wav" }
+sound = { name = "pus_neutral_005"      file = "pus/neutral_005.wav" }
+sound = { name = "pus_neutral_006"      file = "pus/neutral_006.wav" }
+sound = { name = "pus_neutral_007"      file = "pus/neutral_007.wav" }
+sound = { name = "pus_neutral_008"      file = "pus/neutral_008.wav" }
+sound = { name = "pus_neutral_009"      file = "pus/neutral_009.wav" }
+sound = { name = "pus_neutral_010"      file = "pus/neutral_010.wav" }
+sound = { name = "pus_neutral_011"      file = "pus/neutral_011.wav" }
+sound = { name = "pus_neutral_012"      file = "pus/neutral_012.wav" }
+sound = { name = "pus_neutral_013"      file = "pus/neutral_013.wav" }
+sound = { name = "pus_neutral_014"      file = "pus/neutral_014.wav" }
+sound = { name = "pus_neutral_015"      file = "pus/neutral_015.wav" }
+sound = { name = "pus_neutral_016"      file = "pus/neutral_016.wav" }
+sound = { name = "pus_neutral_017"      file = "pus/neutral_017.wav" }
+sound = { name = "pus_neutral_018"      file = "pus/neutral_018.wav" }
+sound = { name = "pus_neutral_019"      file = "pus/neutral_019.wav" }
+sound = { name = "pus_neutral_020"      file = "pus/neutral_020.wav" }
+sound = { name = "pus_neutral_021"      file = "pus/neutral_021.wav" }
+sound = { name = "pus_neutral_019_alt"  file = "pus/neutral_019_alt.wav" }
+sound = { name = "pus_neutral_020_alt"  file = "pus/neutral_020_alt.wav" }
+sound = { name = "pus_neutral_021_alt"  file = "pus/neutral_021_alt.wav" }
+sound = { name = "pus_positive_001"     file = "pus/positive_001.wav" }
+sound = { name = "pus_positive_002"     file = "pus/positive_002.wav" }
+sound = { name = "pus_positive_003"     file = "pus/positive_003.wav" }
+sound = { name = "pus_positive_004"     file = "pus/positive_004.wav" }
+sound = { name = "pus_positive_005"     file = "pus/positive_005.wav" }
+sound = { name = "pus_positive_006"     file = "pus/positive_006.wav" }
+sound = { name = "pus_positive_007"     file = "pus/positive_007.wav" }
+sound = { name = "pus_positive_008"     file = "pus/positive_008.wav" }
+sound = { name = "pus_positive_009"     file = "pus/positive_009.wav" }
+sound = { name = "pus_positive_010"     file = "pus/positive_010.wav" }
+sound = { name = "pus_positive_011"     file = "pus/positive_011.wav" }
+sound = { name = "pus_positive_012"     file = "pus/positive_012.wav" }
+sound = { name = "pus_positive_013"     file = "pus/positive_013.wav" }
+sound = { name = "pus_positive_014"     file = "pus/positive_014.wav" }
+sound = { name = "pus_positive_015"     file = "pus/positive_015.wav" }
+sound = { name = "pus_positive_016"     file = "pus/positive_016.wav" }
+sound = { name = "pus_positive_017"     file = "pus/positive_017.wav" }
+sound = { name = "pus_positive_018"     file = "pus/positive_018.wav" }
+sound = { name = "pus_positive_019"     file = "pus/positive_019.wav" }
+sound = { name = "pus_positive_020"     file = "pus/positive_020.wav" }
+sound = { name = "pus_positive_021"     file = "pus/positive_021.wav" }
+sound = { name = "pus_positive_022"     file = "pus/positive_022.wav" }
+sound = { name = "pus_positive_023"     file = "pus/positive_023.wav" }
+sound = { name = "pus_positive_024"     file = "pus/positive_024.wav" }
+
+### urd ###
+
+sound = { name = "urd_idle_001"         file = "urd/idle_001.wav" }
+sound = { name = "urd_idle_002"         file = "urd/idle_002.wav" }
+sound = { name = "urd_idle_003"         file = "urd/idle_003.wav" }
+sound = { name = "urd_idle_004"         file = "urd/idle_004.wav" }
+sound = { name = "urd_idle_005"         file = "urd/idle_005.wav" }
+sound = { name = "urd_idle_006"         file = "urd/idle_006.wav" }
+sound = { name = "urd_idle_007"         file = "urd/idle_007.wav" }
+sound = { name = "urd_idle_008"         file = "urd/idle_008.wav" }
+sound = { name = "urd_idle_009"         file = "urd/idle_009.wav" }
+sound = { name = "urd_idle_010"         file = "urd/idle_010.wav" }
+sound = { name = "urd_idle_011"         file = "urd/idle_011.wav" }
+sound = { name = "urd_idle_012"         file = "urd/idle_012.wav" }
+sound = { name = "urd_idle_013"         file = "urd/idle_013.wav" }
+sound = { name = "urd_idle_014"         file = "urd/idle_014.wav" }
+sound = { name = "urd_idle_015"         file = "urd/idle_015.wav" }
+sound = { name = "urd_idle_016"         file = "urd/idle_016.wav" }
+sound = { name = "urd_idle_017"         file = "urd/idle_017.wav" }
+sound = { name = "urd_idle_018"         file = "urd/idle_018.wav" }
+sound = { name = "urd_idle_019"         file = "urd/idle_019.wav" }
+sound = { name = "urd_idle_020"         file = "urd/idle_020.wav" }
+sound = { name = "urd_idle_021"         file = "urd/idle_021.wav" }
+sound = { name = "urd_idle_022"         file = "urd/idle_022.wav" }
+sound = { name = "urd_idle_023"         file = "urd/idle_023.wav" }
+sound = { name = "urd_idle_024"         file = "urd/idle_024.wav" }
+sound = { name = "urd_idle_025"         file = "urd/idle_025.wav" }
+sound = { name = "urd_idle_026"         file = "urd/idle_026.wav" }
+sound = { name = "urd_idle_027"         file = "urd/idle_027.wav" }
+sound = { name = "urd_retreat_001"      file = "urd/retreat_001.wav" }
+sound = { name = "urd_retreat_002"      file = "urd/retreat_002.wav" }
+sound = { name = "urd_retreat_003"      file = "urd/retreat_003.wav" }
+sound = { name = "urd_retreat_004"      file = "urd/retreat_004.wav" }
+sound = { name = "urd_retreat_005"      file = "urd/retreat_005.wav" }
+sound = { name = "urd_retreat_006"      file = "urd/retreat_006.wav" }
+sound = { name = "urd_retreat_007"      file = "urd/retreat_007.wav" }
+sound = { name = "urd_retreat_008"      file = "urd/retreat_008.wav" }
+sound = { name = "urd_retreat_009"      file = "urd/retreat_009.wav" }
+sound = { name = "urd_retreat_010"      file = "urd/retreat_010.wav" }
+sound = { name = "urd_retreat_011"      file = "urd/retreat_011.wav" }
+sound = { name = "urd_retreat_012"      file = "urd/retreat_012.wav" }
+sound = { name = "urd_retreat_013"      file = "urd/retreat_013.wav" }
+sound = { name = "urd_retreat_014"      file = "urd/retreat_014.wav" }
+sound = { name = "urd_retreat_015"      file = "urd/retreat_015.wav" }
+sound = { name = "urd_retreat_016"      file = "urd/retreat_016.wav" }
+sound = { name = "urd_retreat_017"      file = "urd/retreat_017.wav" }
+sound = { name = "urd_retreat_018"      file = "urd/retreat_018.wav" }
+sound = { name = "urd_retreat_016_alt"  file = "urd/retreat_016_alt.wav" }
+sound = { name = "urd_retreat_017_alt"  file = "urd/retreat_017_alt.wav" }
+sound = { name = "urd_retreat_018_alt"  file = "urd/retreat_018_alt.wav" }
+sound = { name = "urd_neutral_001"      file = "urd/neutral_001.wav" }
+sound = { name = "urd_neutral_002"      file = "urd/neutral_002.wav" }
+sound = { name = "urd_neutral_003"      file = "urd/neutral_003.wav" }
+sound = { name = "urd_neutral_004"      file = "urd/neutral_004.wav" }
+sound = { name = "urd_neutral_005"      file = "urd/neutral_005.wav" }
+sound = { name = "urd_neutral_006"      file = "urd/neutral_006.wav" }
+sound = { name = "urd_neutral_007"      file = "urd/neutral_007.wav" }
+sound = { name = "urd_neutral_008"      file = "urd/neutral_008.wav" }
+sound = { name = "urd_neutral_009"      file = "urd/neutral_009.wav" }
+sound = { name = "urd_neutral_010"      file = "urd/neutral_010.wav" }
+sound = { name = "urd_neutral_011"      file = "urd/neutral_011.wav" }
+sound = { name = "urd_neutral_012"      file = "urd/neutral_012.wav" }
+sound = { name = "urd_neutral_013"      file = "urd/neutral_013.wav" }
+sound = { name = "urd_neutral_014"      file = "urd/neutral_014.wav" }
+sound = { name = "urd_neutral_015"      file = "urd/neutral_015.wav" }
+sound = { name = "urd_neutral_016"      file = "urd/neutral_016.wav" }
+sound = { name = "urd_neutral_017"      file = "urd/neutral_017.wav" }
+sound = { name = "urd_neutral_018"      file = "urd/neutral_018.wav" }
+sound = { name = "urd_neutral_019"      file = "urd/neutral_019.wav" }
+sound = { name = "urd_neutral_020"      file = "urd/neutral_020.wav" }
+sound = { name = "urd_neutral_021"      file = "urd/neutral_021.wav" }
+sound = { name = "urd_neutral_019_alt"  file = "urd/neutral_019_alt.wav" }
+sound = { name = "urd_neutral_020_alt"  file = "urd/neutral_020_alt.wav" }
+sound = { name = "urd_neutral_021_alt"  file = "urd/neutral_021_alt.wav" }
+sound = { name = "urd_positive_001"     file = "urd/positive_001.wav" }
+sound = { name = "urd_positive_002"     file = "urd/positive_002.wav" }
+sound = { name = "urd_positive_003"     file = "urd/positive_003.wav" }
+sound = { name = "urd_positive_004"     file = "urd/positive_004.wav" }
+sound = { name = "urd_positive_005"     file = "urd/positive_005.wav" }
+sound = { name = "urd_positive_006"     file = "urd/positive_006.wav" }
+sound = { name = "urd_positive_007"     file = "urd/positive_007.wav" }
+sound = { name = "urd_positive_008"     file = "urd/positive_008.wav" }
+sound = { name = "urd_positive_009"     file = "urd/positive_009.wav" }
+sound = { name = "urd_positive_010"     file = "urd/positive_010.wav" }
+sound = { name = "urd_positive_011"     file = "urd/positive_011.wav" }
+sound = { name = "urd_positive_012"     file = "urd/positive_012.wav" }
+sound = { name = "urd_positive_013"     file = "urd/positive_013.wav" }
+sound = { name = "urd_positive_014"     file = "urd/positive_014.wav" }
+sound = { name = "urd_positive_015"     file = "urd/positive_015.wav" }
+sound = { name = "urd_positive_016"     file = "urd/positive_016.wav" }
+sound = { name = "urd_positive_017"     file = "urd/positive_017.wav" }
+sound = { name = "urd_positive_018"     file = "urd/positive_018.wav" }
+sound = { name = "urd_positive_019"     file = "urd/positive_019.wav" }
+sound = { name = "urd_positive_020"     file = "urd/positive_020.wav" }
+sound = { name = "urd_positive_021"     file = "urd/positive_021.wav" }
+sound = { name = "urd_positive_022"     file = "urd/positive_022.wav" }
+sound = { name = "urd_positive_023"     file = "urd/positive_023.wav" }
+sound = { name = "urd_positive_024"     file = "urd/positive_024.wav" }
+
+### urd_f ###
+
+sound = { name = "urd_f_idle_001"         file = "urd_f/idle_001.wav" }
+sound = { name = "urd_f_idle_002"         file = "urd_f/idle_002.wav" }
+sound = { name = "urd_f_idle_003"         file = "urd_f/idle_003.wav" }
+sound = { name = "urd_f_idle_004"         file = "urd_f/idle_004.wav" }
+sound = { name = "urd_f_idle_005"         file = "urd_f/idle_005.wav" }
+sound = { name = "urd_f_idle_006"         file = "urd_f/idle_006.wav" }
+sound = { name = "urd_f_idle_007"         file = "urd_f/idle_007.wav" }
+sound = { name = "urd_f_idle_008"         file = "urd_f/idle_008.wav" }
+sound = { name = "urd_f_idle_009"         file = "urd_f/idle_009.wav" }
+sound = { name = "urd_f_idle_010"         file = "urd_f/idle_010.wav" }
+sound = { name = "urd_f_idle_011"         file = "urd_f/idle_011.wav" }
+sound = { name = "urd_f_idle_012"         file = "urd_f/idle_012.wav" }
+sound = { name = "urd_f_idle_013"         file = "urd_f/idle_013.wav" }
+sound = { name = "urd_f_idle_014"         file = "urd_f/idle_014.wav" }
+sound = { name = "urd_f_idle_015"         file = "urd_f/idle_015.wav" }
+sound = { name = "urd_f_idle_016"         file = "urd_f/idle_016.wav" }
+sound = { name = "urd_f_idle_017"         file = "urd_f/idle_017.wav" }
+sound = { name = "urd_f_idle_018"         file = "urd_f/idle_018.wav" }
+sound = { name = "urd_f_idle_019"         file = "urd_f/idle_019.wav" }
+sound = { name = "urd_f_idle_020"         file = "urd_f/idle_020.wav" }
+sound = { name = "urd_f_idle_021"         file = "urd_f/idle_021.wav" }
+sound = { name = "urd_f_idle_022"         file = "urd_f/idle_022.wav" }
+sound = { name = "urd_f_idle_023"         file = "urd_f/idle_023.wav" }
+sound = { name = "urd_f_idle_024"         file = "urd_f/idle_024.wav" }
+sound = { name = "urd_f_idle_025"         file = "urd_f/idle_025.wav" }
+sound = { name = "urd_f_idle_026"         file = "urd_f/idle_026.wav" }
+sound = { name = "urd_f_idle_027"         file = "urd_f/idle_027.wav" }
+sound = { name = "urd_f_retreat_001"      file = "urd_f/retreat_001.wav" }
+sound = { name = "urd_f_retreat_002"      file = "urd_f/retreat_002.wav" }
+sound = { name = "urd_f_retreat_003"      file = "urd_f/retreat_003.wav" }
+sound = { name = "urd_f_retreat_004"      file = "urd_f/retreat_004.wav" }
+sound = { name = "urd_f_retreat_005"      file = "urd_f/retreat_005.wav" }
+sound = { name = "urd_f_retreat_006"      file = "urd_f/retreat_006.wav" }
+sound = { name = "urd_f_retreat_007"      file = "urd_f/retreat_007.wav" }
+sound = { name = "urd_f_retreat_008"      file = "urd_f/retreat_008.wav" }
+sound = { name = "urd_f_retreat_009"      file = "urd_f/retreat_009.wav" }
+sound = { name = "urd_f_retreat_010"      file = "urd_f/retreat_010.wav" }
+sound = { name = "urd_f_retreat_011"      file = "urd_f/retreat_011.wav" }
+sound = { name = "urd_f_retreat_012"      file = "urd_f/retreat_012.wav" }
+sound = { name = "urd_f_retreat_013"      file = "urd_f/retreat_013.wav" }
+sound = { name = "urd_f_retreat_014"      file = "urd_f/retreat_014.wav" }
+sound = { name = "urd_f_retreat_015"      file = "urd_f/retreat_015.wav" }
+sound = { name = "urd_f_retreat_016"      file = "urd_f/retreat_016.wav" }
+sound = { name = "urd_f_retreat_017"      file = "urd_f/retreat_017.wav" }
+sound = { name = "urd_f_retreat_018"      file = "urd_f/retreat_018.wav" }
+sound = { name = "urd_f_retreat_016_alt"  file = "urd_f/retreat_016_alt.wav" }
+sound = { name = "urd_f_retreat_017_alt"  file = "urd_f/retreat_017_alt.wav" }
+sound = { name = "urd_f_retreat_018_alt"  file = "urd_f/retreat_018_alt.wav" }
+sound = { name = "urd_f_neutral_001"      file = "urd_f/neutral_001.wav" }
+sound = { name = "urd_f_neutral_002"      file = "urd_f/neutral_002.wav" }
+sound = { name = "urd_f_neutral_003"      file = "urd_f/neutral_003.wav" }
+sound = { name = "urd_f_neutral_004"      file = "urd_f/neutral_004.wav" }
+sound = { name = "urd_f_neutral_005"      file = "urd_f/neutral_005.wav" }
+sound = { name = "urd_f_neutral_006"      file = "urd_f/neutral_006.wav" }
+sound = { name = "urd_f_neutral_007"      file = "urd_f/neutral_007.wav" }
+sound = { name = "urd_f_neutral_008"      file = "urd_f/neutral_008.wav" }
+sound = { name = "urd_f_neutral_009"      file = "urd_f/neutral_009.wav" }
+sound = { name = "urd_f_neutral_010"      file = "urd_f/neutral_010.wav" }
+sound = { name = "urd_f_neutral_011"      file = "urd_f/neutral_011.wav" }
+sound = { name = "urd_f_neutral_012"      file = "urd_f/neutral_012.wav" }
+sound = { name = "urd_f_neutral_013"      file = "urd_f/neutral_013.wav" }
+sound = { name = "urd_f_neutral_014"      file = "urd_f/neutral_014.wav" }
+sound = { name = "urd_f_neutral_015"      file = "urd_f/neutral_015.wav" }
+sound = { name = "urd_f_neutral_016"      file = "urd_f/neutral_016.wav" }
+sound = { name = "urd_f_neutral_017"      file = "urd_f/neutral_017.wav" }
+sound = { name = "urd_f_neutral_018"      file = "urd_f/neutral_018.wav" }
+sound = { name = "urd_f_neutral_019"      file = "urd_f/neutral_019.wav" }
+sound = { name = "urd_f_neutral_020"      file = "urd_f/neutral_020.wav" }
+sound = { name = "urd_f_neutral_021"      file = "urd_f/neutral_021.wav" }
+sound = { name = "urd_f_neutral_019_alt"  file = "urd_f/neutral_019_alt.wav" }
+sound = { name = "urd_f_neutral_020_alt"  file = "urd_f/neutral_020_alt.wav" }
+sound = { name = "urd_f_neutral_021_alt"  file = "urd_f/neutral_021_alt.wav" }
+sound = { name = "urd_f_positive_001"     file = "urd_f/positive_001.wav" }
+sound = { name = "urd_f_positive_002"     file = "urd_f/positive_002.wav" }
+sound = { name = "urd_f_positive_003"     file = "urd_f/positive_003.wav" }
+sound = { name = "urd_f_positive_004"     file = "urd_f/positive_004.wav" }
+sound = { name = "urd_f_positive_005"     file = "urd_f/positive_005.wav" }
+sound = { name = "urd_f_positive_006"     file = "urd_f/positive_006.wav" }
+sound = { name = "urd_f_positive_007"     file = "urd_f/positive_007.wav" }
+sound = { name = "urd_f_positive_008"     file = "urd_f/positive_008.wav" }
+sound = { name = "urd_f_positive_009"     file = "urd_f/positive_009.wav" }
+sound = { name = "urd_f_positive_010"     file = "urd_f/positive_010.wav" }
+sound = { name = "urd_f_positive_011"     file = "urd_f/positive_011.wav" }
+sound = { name = "urd_f_positive_012"     file = "urd_f/positive_012.wav" }
+sound = { name = "urd_f_positive_013"     file = "urd_f/positive_013.wav" }
+sound = { name = "urd_f_positive_014"     file = "urd_f/positive_014.wav" }
+sound = { name = "urd_f_positive_015"     file = "urd_f/positive_015.wav" }
+sound = { name = "urd_f_positive_016"     file = "urd_f/positive_016.wav" }
+sound = { name = "urd_f_positive_017"     file = "urd_f/positive_017.wav" }
+sound = { name = "urd_f_positive_018"     file = "urd_f/positive_018.wav" }
+sound = { name = "urd_f_positive_019"     file = "urd_f/positive_019.wav" }
+sound = { name = "urd_f_positive_020"     file = "urd_f/positive_020.wav" }
+sound = { name = "urd_f_positive_021"     file = "urd_f/positive_021.wav" }
+sound = { name = "urd_f_positive_022"     file = "urd_f/positive_022.wav" }
+sound = { name = "urd_f_positive_023"     file = "urd_f/positive_023.wav" }
+sound = { name = "urd_f_positive_024"     file = "urd_f/positive_024.wav" }
